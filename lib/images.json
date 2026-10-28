@@ -1,0 +1,2086 @@
+{
+  "quebec-island-farm": {
+    "key": "quebec-island-farm",
+    "alt": "Aerial view of long green farm fields, country homes and woodland on Île d’Orléans, with the river on the horizon.",
+    "location": "Sainte-Famille-de-l’Île-d’Orléans, QC, Canada",
+    "creator": "Damian Wyroslak",
+    "sourcePage": "https://unsplash.com/photos/an-aerial-view-of-a-farm-HDefGs6v7qs",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 62%",
+    "files": [
+      {
+        "width": 480,
+        "height": 277,
+        "avif": "/images/land/quebec-island-farm-480-1386fc19fd.avif",
+        "avifBytes": 8751,
+        "webp": "/images/land/quebec-island-farm-480-095dff720e.webp",
+        "webpBytes": 17444
+      },
+      {
+        "width": 800,
+        "height": 462,
+        "avif": "/images/land/quebec-island-farm-800-0ffeaae30e.avif",
+        "avifBytes": 21074,
+        "webp": "/images/land/quebec-island-farm-800-2b9ff90c5a.webp",
+        "webpBytes": 43526
+      },
+      {
+        "width": 1200,
+        "height": 693,
+        "avif": "/images/land/quebec-island-farm-1200-b384ae76b9.avif",
+        "avifBytes": 43298,
+        "webp": "/images/land/quebec-island-farm-1200-1ca4248f8c.webp",
+        "webpBytes": 90124
+      },
+      {
+        "width": 1600,
+        "height": 924,
+        "avif": "/images/land/quebec-island-farm-1600-4d34ab42d6.avif",
+        "avifBytes": 73811,
+        "webp": "/images/land/quebec-island-farm-1600-baeb0717f3.webp",
+        "webpBytes": 162294
+      }
+    ]
+  },
+  "ontario-field-mosaic": {
+    "key": "ontario-field-mosaic",
+    "alt": "A patchwork of green and golden farm fields, tree belts and farm buildings stretches to the horizon near Waterloo.",
+    "location": "Waterloo, Canada",
+    "creator": "Sveta Fedarava",
+    "sourcePage": "https://unsplash.com/photos/aerial-photography-of-brown-and-green-fileds-v1ar8e1dOjg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/ontario-field-mosaic-480-df70cc1ddb.avif",
+        "avifBytes": 9899,
+        "webp": "/images/land/ontario-field-mosaic-480-96998fb273.webp",
+        "webpBytes": 20972
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/ontario-field-mosaic-800-b05791718a.avif",
+        "avifBytes": 24366,
+        "webp": "/images/land/ontario-field-mosaic-800-41f60e3215.webp",
+        "webpBytes": 50612
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/ontario-field-mosaic-1200-804ddbeb63.avif",
+        "avifBytes": 46605,
+        "webp": "/images/land/ontario-field-mosaic-1200-85a4a2c191.webp",
+        "webpBytes": 93174
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/ontario-field-mosaic-1600-598aeaab9f.avif",
+        "avifBytes": 74404,
+        "webp": "/images/land/ontario-field-mosaic-1600-f95a141ecf.webp",
+        "webpBytes": 137014
+      }
+    ]
+  },
+  "quebec-island-cottage": {
+    "key": "quebec-island-cottage",
+    "alt": "A timber cottage and wooden dock sit beside a lake among dense evergreen trees in Quebec.",
+    "location": "Quebec, Canada",
+    "creator": "Vladimir Mokry",
+    "sourcePage": "https://unsplash.com/photos/a-house-on-a-small-island-in-the-middle-of-a-lake-PRsIoBaL_aQ",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "40% 55%",
+    "files": [
+      {
+        "width": 480,
+        "height": 240,
+        "avif": "/images/land/quebec-island-cottage-480-2bd2120865.avif",
+        "avifBytes": 7852,
+        "webp": "/images/land/quebec-island-cottage-480-8ce913c2a5.webp",
+        "webpBytes": 15958
+      },
+      {
+        "width": 800,
+        "height": 400,
+        "avif": "/images/land/quebec-island-cottage-800-92f0a8e0ab.avif",
+        "avifBytes": 20648,
+        "webp": "/images/land/quebec-island-cottage-800-d43f6ba0ba.webp",
+        "webpBytes": 43866
+      },
+      {
+        "width": 1200,
+        "height": 600,
+        "avif": "/images/land/quebec-island-cottage-1200-75d00577e5.avif",
+        "avifBytes": 44218,
+        "webp": "/images/land/quebec-island-cottage-1200-0346ad4406.webp",
+        "webpBytes": 95582
+      },
+      {
+        "width": 1600,
+        "height": 800,
+        "avif": "/images/land/quebec-island-cottage-1600-8f9e96cbdb.avif",
+        "avifBytes": 75198,
+        "webp": "/images/land/quebec-island-cottage-1600-387bde9532.webp",
+        "webpBytes": 168318
+      }
+    ]
+  },
+  "equestrian-pasture": {
+    "key": "equestrian-pasture",
+    "alt": "A grey horse walks through a green pasture enclosed by wooden fences and mature trees.",
+    "location": "",
+    "creator": "Martin Wemyss",
+    "sourcePage": "https://unsplash.com/photos/a-horse-and-its-calf-in-a-fenced-pasture-7wO1OtZjNtg",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "45% 55%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/equestrian-pasture-480-ab85a9f416.avif",
+        "avifBytes": 13858,
+        "webp": "/images/land/equestrian-pasture-480-289cd6dd5f.webp",
+        "webpBytes": 31328
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/equestrian-pasture-800-ddf964aa93.avif",
+        "avifBytes": 35685,
+        "webp": "/images/land/equestrian-pasture-800-73af876edb.webp",
+        "webpBytes": 76662
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/equestrian-pasture-1200-b0a641e191.avif",
+        "avifBytes": 70126,
+        "webp": "/images/land/equestrian-pasture-1200-3a56f20d11.webp",
+        "webpBytes": 145504
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/equestrian-pasture-1600-958bb910c8.avif",
+        "avifBytes": 112466,
+        "webp": "/images/land/equestrian-pasture-1600-3b2c571e06.webp",
+        "webpBytes": 190556
+      }
+    ]
+  },
+  "bc-red-barn": {
+    "key": "bc-red-barn",
+    "alt": "A red barn with a pale metal roof stands beside fenced green pasture beneath a forested hillside.",
+    "location": "British Columbia, Canada",
+    "creator": "Ric Matkowski",
+    "sourcePage": "https://unsplash.com/photos/a-red-barn-in-the-middle-of-a-lush-green-field-Zxb4oWkWb9k",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "40% 72%",
+    "files": [
+      {
+        "width": 480,
+        "height": 303,
+        "avif": "/images/land/bc-red-barn-480-e28d53e711.avif",
+        "avifBytes": 16221,
+        "webp": "/images/land/bc-red-barn-480-7a974bfa8d.webp",
+        "webpBytes": 40832
+      },
+      {
+        "width": 800,
+        "height": 505,
+        "avif": "/images/land/bc-red-barn-800-c1697f78fa.avif",
+        "avifBytes": 44446,
+        "webp": "/images/land/bc-red-barn-800-0d929a17a0.webp",
+        "webpBytes": 113070
+      },
+      {
+        "width": 1200,
+        "height": 758,
+        "avif": "/images/land/bc-red-barn-1200-ddba7cca30.avif",
+        "avifBytes": 94385,
+        "webp": "/images/land/bc-red-barn-1200-94e67fb47c.webp",
+        "webpBytes": 186398
+      },
+      {
+        "width": 1600,
+        "height": 1010,
+        "avif": "/images/land/bc-red-barn-1600-24833371c3.avif",
+        "avifBytes": 158721,
+        "webp": "/images/land/bc-red-barn-1600-6b3b27a1f9.webp",
+        "webpBytes": 186926
+      }
+    ]
+  },
+  "novascotia-farmland": {
+    "key": "novascotia-farmland",
+    "alt": "Overhead view of green fields divided by a narrow country road, with long shadows from a row of trees.",
+    "location": "Burntcoat, Canada",
+    "creator": "Ron Whitaker",
+    "sourcePage": "https://unsplash.com/photos/aerial-photography-of-green-field-TLROj394Q3M",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/novascotia-farmland-480-60526b2081.avif",
+        "avifBytes": 23698,
+        "webp": "/images/land/novascotia-farmland-480-9e8dcdef95.webp",
+        "webpBytes": 54672
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/novascotia-farmland-800-fef74cb52c.avif",
+        "avifBytes": 71568,
+        "webp": "/images/land/novascotia-farmland-800-7beb1c14ac.webp",
+        "webpBytes": 116166
+      },
+      {
+        "width": 1200,
+        "height": 899,
+        "avif": "/images/land/novascotia-farmland-1200-a3daf40adc.avif",
+        "avifBytes": 166417,
+        "webp": "/images/land/novascotia-farmland-1200-d4f8808cfd.webp",
+        "webpBytes": 184936
+      }
+    ]
+  },
+  "whistler-lake-aerial": {
+    "key": "whistler-lake-aerial",
+    "alt": "Aerial view of an evergreen forest bordering a partly frozen lake with wooden swimming docks.",
+    "location": "Lost Lake, Whistler, BC, Canada",
+    "creator": "Dillon Hunt",
+    "sourcePage": "https://unsplash.com/photos/an-aerial-view-of-a-lake-surrounded-by-trees-3MFkUhzOt88",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 70%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/whistler-lake-aerial-480-8360cb616f.avif",
+        "avifBytes": 10338,
+        "webp": "/images/land/whistler-lake-aerial-480-0668bd1294.webp",
+        "webpBytes": 21606
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/whistler-lake-aerial-800-3dfeeeed71.avif",
+        "avifBytes": 26858,
+        "webp": "/images/land/whistler-lake-aerial-800-4f4dcfa425.webp",
+        "webpBytes": 59452
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/whistler-lake-aerial-1200-409cdeb2ec.avif",
+        "avifBytes": 59223,
+        "webp": "/images/land/whistler-lake-aerial-1200-d331b0138d.webp",
+        "webpBytes": 137202
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/whistler-lake-aerial-1600-8075e3665d.avif",
+        "avifBytes": 109971,
+        "webp": "/images/land/whistler-lake-aerial-1600-0332b0ebe5.webp",
+        "webpBytes": 190322
+      }
+    ]
+  },
+  "country-farmhouse-barn": {
+    "key": "country-farmhouse-barn",
+    "alt": "A red brick farmhouse and red barn stand across a green field among mature trees.",
+    "location": "",
+    "creator": "Roger Starnes Sr",
+    "sourcePage": "https://unsplash.com/photos/a-farmhouse-and-barn-in-a-green-field-AG7UQPIIIjI",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 60%",
+    "files": [
+      {
+        "width": 480,
+        "height": 234,
+        "avif": "/images/land/country-farmhouse-barn-480-dca7052abb.avif",
+        "avifBytes": 8458,
+        "webp": "/images/land/country-farmhouse-barn-480-f7159eec67.webp",
+        "webpBytes": 17864
+      },
+      {
+        "width": 800,
+        "height": 390,
+        "avif": "/images/land/country-farmhouse-barn-800-63fe9ec6d3.avif",
+        "avifBytes": 21902,
+        "webp": "/images/land/country-farmhouse-barn-800-fa814e0ec3.webp",
+        "webpBytes": 47686
+      },
+      {
+        "width": 1200,
+        "height": 585,
+        "avif": "/images/land/country-farmhouse-barn-1200-712aac0b30.avif",
+        "avifBytes": 45777,
+        "webp": "/images/land/country-farmhouse-barn-1200-a496c515d8.webp",
+        "webpBytes": 98222
+      },
+      {
+        "width": 1600,
+        "height": 780,
+        "avif": "/images/land/country-farmhouse-barn-1600-dba6c3845e.avif",
+        "avifBytes": 75183,
+        "webp": "/images/land/country-farmhouse-barn-1600-da7c55967e.webp",
+        "webpBytes": 160754
+      }
+    ]
+  },
+  "bc-forest-cabin": {
+    "key": "bc-forest-cabin",
+    "alt": "A grey cabin with a steep white roof and timber entrance stands in a dense mountain forest.",
+    "location": "Sasquatch Mountain Resort, Agassiz, BC, Canada",
+    "creator": "Francois Brill",
+    "sourcePage": "https://unsplash.com/photos/a-small-cabin-in-the-middle-of-a-forest-_QmPCKLY_vA",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 55%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/bc-forest-cabin-480-5e41155bdd.avif",
+        "avifBytes": 15365,
+        "webp": "/images/land/bc-forest-cabin-480-d58aeb8ca4.webp",
+        "webpBytes": 34278
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/bc-forest-cabin-800-7667812e70.avif",
+        "avifBytes": 42784,
+        "webp": "/images/land/bc-forest-cabin-800-9ee8227c2b.webp",
+        "webpBytes": 95698
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/bc-forest-cabin-1200-128f3933b3.avif",
+        "avifBytes": 93239,
+        "webp": "/images/land/bc-forest-cabin-1200-98d52fac8e.webp",
+        "webpBytes": 177948
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/bc-forest-cabin-1600-2707675158.avif",
+        "avifBytes": 157256,
+        "webp": "/images/land/bc-forest-cabin-1600-f57bdd471d.webp",
+        "webpBytes": 192982
+      }
+    ]
+  },
+  "bc-hayfields": {
+    "key": "bc-hayfields",
+    "alt": "Rows of round golden hay bales lie in a green field bordered by spruce and birch forest.",
+    "location": "Northern British Columbia, Canada",
+    "creator": "Lesly Derksen",
+    "sourcePage": "https://unsplash.com/photos/a-field-of-hay-bales-NNL-Ftg1PZo",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/bc-hayfields-480-1dfbc989f0.avif",
+        "avifBytes": 12826,
+        "webp": "/images/land/bc-hayfields-480-ca03847395.webp",
+        "webpBytes": 28174
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/bc-hayfields-800-017c2528ba.avif",
+        "avifBytes": 35831,
+        "webp": "/images/land/bc-hayfields-800-ae64ba1536.webp",
+        "webpBytes": 77808
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/bc-hayfields-1200-83ef00283b.avif",
+        "avifBytes": 77975,
+        "webp": "/images/land/bc-hayfields-1200-6fd50e46c8.webp",
+        "webpBytes": 168290
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/bc-hayfields-1600-bea5e80413.avif",
+        "avifBytes": 132851,
+        "webp": "/images/land/bc-hayfields-1600-04643de363.webp",
+        "webpBytes": 184764
+      }
+    ]
+  },
+  "quebec-autumn-sunset": {
+    "key": "quebec-autumn-sunset",
+    "alt": "Round hay bales dot a green field beneath birch trees and colourful autumn hills in warm evening light.",
+    "location": "Mont-Tremblant, QC, Canada",
+    "creator": "Nunzio Guerrera",
+    "sourcePage": "https://unsplash.com/photos/a-field-with-hay-bales-in-the-foreground-and-trees-in-the-background-UM8_YB_G9K8",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 60%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/quebec-autumn-sunset-480-95b4323cd0.avif",
+        "avifBytes": 13403,
+        "webp": "/images/land/quebec-autumn-sunset-480-51c41fbbf1.webp",
+        "webpBytes": 35556
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/quebec-autumn-sunset-800-e1b9cfec42.avif",
+        "avifBytes": 38861,
+        "webp": "/images/land/quebec-autumn-sunset-800-5c51ff25b0.webp",
+        "webpBytes": 101388
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/quebec-autumn-sunset-1200-472ac4c1e8.avif",
+        "avifBytes": 87464,
+        "webp": "/images/land/quebec-autumn-sunset-1200-dc189ebb47.webp",
+        "webpBytes": 189618
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/quebec-autumn-sunset-1600-cdc50becad.avif",
+        "avifBytes": 157405,
+        "webp": "/images/land/quebec-autumn-sunset-1600-2f892a7af0.webp",
+        "webpBytes": 169430
+      }
+    ]
+  },
+  "ontario-1": {
+    "key": "ontario-1",
+    "alt": "Rolling green and golden fields near Owen Sound under a blue summer sky.",
+    "location": "Near Owen Sound, Ontario",
+    "creator": "Maksim Sokolov (maxergon.com)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:On_the_road_to_Tobermory,_Ontario.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/ontario-1-480-67b2bf5f8d.avif",
+        "avifBytes": 10618,
+        "webp": "/images/land/ontario-1-480-670f1892b6.webp",
+        "webpBytes": 23258
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/ontario-1-800-7e9462d476.avif",
+        "avifBytes": 31791,
+        "webp": "/images/land/ontario-1-800-ec37130fab.webp",
+        "webpBytes": 71274
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/ontario-1-1200-0721d50a05.avif",
+        "avifBytes": 77967,
+        "webp": "/images/land/ontario-1-1200-9ba74c6eb3.webp",
+        "webpBytes": 170824
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/ontario-1-1600-3f365d42d2.avif",
+        "avifBytes": 147026,
+        "webp": "/images/land/ontario-1-1600-4a33ae6591.webp",
+        "webpBytes": 173608
+      }
+    ]
+  },
+  "ontario-2": {
+    "key": "ontario-2",
+    "alt": "Summer fields and a farmstead in the Woolwich countryside.",
+    "location": "Woolwich, Ontario",
+    "creator": "Andre Carrotflower",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:20150703_-_24_-_Woolwich,_Ont._-_Rural_Scenery_Along_County_Road_85.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 288,
+        "avif": "/images/land/ontario-2-480-5800b26aa0.avif",
+        "avifBytes": 8781,
+        "webp": "/images/land/ontario-2-480-21d207922e.webp",
+        "webpBytes": 17680
+      },
+      {
+        "width": 800,
+        "height": 480,
+        "avif": "/images/land/ontario-2-800-6fb19989de.avif",
+        "avifBytes": 23422,
+        "webp": "/images/land/ontario-2-800-17284ede8d.webp",
+        "webpBytes": 49238
+      },
+      {
+        "width": 1200,
+        "height": 720,
+        "avif": "/images/land/ontario-2-1200-76d3f1f960.avif",
+        "avifBytes": 49491,
+        "webp": "/images/land/ontario-2-1200-9b22dbc7a8.webp",
+        "webpBytes": 97558
+      },
+      {
+        "width": 1600,
+        "height": 960,
+        "avif": "/images/land/ontario-2-1600-9211124d0a.avif",
+        "avifBytes": 78799,
+        "webp": "/images/land/ontario-2-1600-ef0a92abd4.webp",
+        "webpBytes": 150770
+      }
+    ]
+  },
+  "alberta-2": {
+    "key": "alberta-2",
+    "alt": "Canola fields, prairie hills, and a small wetland under a clear sky.",
+    "location": "Alberta prairie, northeast of Calgary",
+    "creator": "Shane Smith",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Canola_Fields_and_Prairie_Hills_-_panoramio.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/alberta-2-480-1e1849e24d.avif",
+        "avifBytes": 5234,
+        "webp": "/images/land/alberta-2-480-4ac7babbb5.webp",
+        "webpBytes": 9108
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/alberta-2-800-fdc6416a9e.avif",
+        "avifBytes": 13492,
+        "webp": "/images/land/alberta-2-800-7dd7febc19.webp",
+        "webpBytes": 26116
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/alberta-2-1200-6add48f67d.avif",
+        "avifBytes": 30833,
+        "webp": "/images/land/alberta-2-1200-f048b0add7.webp",
+        "webpBytes": 60954
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/alberta-2-1600-dd79011e7a.avif",
+        "avifBytes": 57946,
+        "webp": "/images/land/alberta-2-1600-de64527266.webp",
+        "webpBytes": 118232
+      }
+    ]
+  },
+  "alberta-1": {
+    "key": "alberta-1",
+    "alt": "Green foothills with the distant Rocky Mountains in southern Alberta.",
+    "location": "Southern Alberta foothills",
+    "creator": "Kay Röllig",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rockys_(206690289).jpeg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 244,
+        "avif": "/images/land/alberta-1-480-60f409d8b8.avif",
+        "avifBytes": 7181,
+        "webp": "/images/land/alberta-1-480-4d7d83f4d7.webp",
+        "webpBytes": 13152
+      },
+      {
+        "width": 800,
+        "height": 407,
+        "avif": "/images/land/alberta-1-800-4298eacb81.avif",
+        "avifBytes": 17623,
+        "webp": "/images/land/alberta-1-800-c3c30aa59a.webp",
+        "webpBytes": 33806
+      },
+      {
+        "width": 1200,
+        "height": 610,
+        "avif": "/images/land/alberta-1-1200-e5eb9e17ad.avif",
+        "avifBytes": 35899,
+        "webp": "/images/land/alberta-1-1200-7a2b2016b8.webp",
+        "webpBytes": 69666
+      },
+      {
+        "width": 1600,
+        "height": 813,
+        "avif": "/images/land/alberta-1-1600-3102614c51.avif",
+        "avifBytes": 59401,
+        "webp": "/images/land/alberta-1-1600-e0420d51dc.webp",
+        "webpBytes": 115706
+      }
+    ]
+  },
+  "british-columbia-1": {
+    "key": "british-columbia-1",
+    "alt": "Layered blue mountain ridges in E. C. Manning Provincial Park.",
+    "location": "E. C. Manning Provincial Park, British Columbia",
+    "creator": "Migjohanson",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Lightning_lake_in_Manning_park_BC,_Canada.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/british-columbia-1-480-a5e9b20659.avif",
+        "avifBytes": 6789,
+        "webp": "/images/land/british-columbia-1-480-5a93fa3179.webp",
+        "webpBytes": 9662
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/british-columbia-1-800-9b25e3a868.avif",
+        "avifBytes": 15178,
+        "webp": "/images/land/british-columbia-1-800-4fccb7e298.webp",
+        "webpBytes": 23388
+      },
+      {
+        "width": 1200,
+        "height": 801,
+        "avif": "/images/land/british-columbia-1-1200-a98e50027f.avif",
+        "avifBytes": 31473,
+        "webp": "/images/land/british-columbia-1-1200-0a76195ccf.webp",
+        "webpBytes": 47102
+      },
+      {
+        "width": 1600,
+        "height": 1068,
+        "avif": "/images/land/british-columbia-1-1600-676bb9d2d6.avif",
+        "avifBytes": 54492,
+        "webp": "/images/land/british-columbia-1-1600-a45c369673.webp",
+        "webpBytes": 81512
+      }
+    ]
+  },
+  "british-columbia-2": {
+    "key": "british-columbia-2",
+    "alt": "Alpine trees and lingering snow beside Ladyslipper Lake.",
+    "location": "Ladyslipper Lake, Cathedral Provincial Park, British Columbia",
+    "creator": "Andrew Plowright",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ladyslipper_Lake_(217458663).jpeg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 256,
+        "avif": "/images/land/british-columbia-2-480-41c916169d.avif",
+        "avifBytes": 13371,
+        "webp": "/images/land/british-columbia-2-480-54629755d5.webp",
+        "webpBytes": 29836
+      },
+      {
+        "width": 800,
+        "height": 427,
+        "avif": "/images/land/british-columbia-2-800-d5eb169f9e.avif",
+        "avifBytes": 37717,
+        "webp": "/images/land/british-columbia-2-800-8f60bcfb60.webp",
+        "webpBytes": 83196
+      },
+      {
+        "width": 1200,
+        "height": 640,
+        "avif": "/images/land/british-columbia-2-1200-4daa57befa.avif",
+        "avifBytes": 82680,
+        "webp": "/images/land/british-columbia-2-1200-e47f823e98.webp",
+        "webpBytes": 181710
+      },
+      {
+        "width": 1600,
+        "height": 853,
+        "avif": "/images/land/british-columbia-2-1600-43b03d9454.avif",
+        "avifBytes": 143673,
+        "webp": "/images/land/british-columbia-2-1600-a5280cb28a.webp",
+        "webpBytes": 183086
+      }
+    ]
+  },
+  "saskatchewan-1": {
+    "key": "saskatchewan-1",
+    "alt": "Canola field glowing beneath dramatic clouds at sunset.",
+    "location": "Near Saskatoon, Saskatchewan",
+    "creator": "Cory Denton from Saskatoon",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Canola_Sky_(29620758675).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 293,
+        "avif": "/images/land/saskatchewan-1-480-9c32b9e97f.avif",
+        "avifBytes": 11915,
+        "webp": "/images/land/saskatchewan-1-480-8f41acf840.webp",
+        "webpBytes": 27188
+      },
+      {
+        "width": 800,
+        "height": 488,
+        "avif": "/images/land/saskatchewan-1-800-aa45a9ea7c.avif",
+        "avifBytes": 31699,
+        "webp": "/images/land/saskatchewan-1-800-47f92e5de9.webp",
+        "webpBytes": 74138
+      },
+      {
+        "width": 1200,
+        "height": 731,
+        "avif": "/images/land/saskatchewan-1-1200-39ea68ed7e.avif",
+        "avifBytes": 70687,
+        "webp": "/images/land/saskatchewan-1-1200-13ed7949c4.webp",
+        "webpBytes": 160606
+      },
+      {
+        "width": 1600,
+        "height": 975,
+        "avif": "/images/land/saskatchewan-1-1600-0c025230a2.avif",
+        "avifBytes": 122437,
+        "webp": "/images/land/saskatchewan-1-1600-ed0ae68bac.webp",
+        "webpBytes": 183538
+      }
+    ]
+  },
+  "manitoba-1": {
+    "key": "manitoba-1",
+    "alt": "Golden and green fields along Highway 10 in southern Manitoba.",
+    "location": "Between Boissevain and Brandon, Manitoba",
+    "creator": "Ken Lund from Reno, Nevada, USA",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Rural_Manitoba,_Manitoba_Highway_10_Between_Boissevain_and_Brandon,_Manitoba_(43254883294).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 282,
+        "avif": "/images/land/manitoba-1-480-458d6e63ec.avif",
+        "avifBytes": 8028,
+        "webp": "/images/land/manitoba-1-480-cc05aa2760.webp",
+        "webpBytes": 16904
+      },
+      {
+        "width": 800,
+        "height": 470,
+        "avif": "/images/land/manitoba-1-800-1357303c65.avif",
+        "avifBytes": 24928,
+        "webp": "/images/land/manitoba-1-800-eebf02fcbe.webp",
+        "webpBytes": 57584
+      },
+      {
+        "width": 1200,
+        "height": 705,
+        "avif": "/images/land/manitoba-1-1200-b12383d683.avif",
+        "avifBytes": 63775,
+        "webp": "/images/land/manitoba-1-1200-20c4c5f253.webp",
+        "webpBytes": 143844
+      },
+      {
+        "width": 1600,
+        "height": 940,
+        "avif": "/images/land/manitoba-1-1600-b638f6f5ed.avif",
+        "avifBytes": 122765,
+        "webp": "/images/land/manitoba-1-1600-63c942564f.webp",
+        "webpBytes": 177668
+      }
+    ]
+  },
+  "saskatchewan-2": {
+    "key": "saskatchewan-2",
+    "alt": "Bright yellow canola fields bordered by trees in rural Saskatchewan.",
+    "location": "Rural Municipality of Tecumseh, Saskatchewan",
+    "creator": "Masterhatch",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:RM_of_Tecumseh_canola_field.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/saskatchewan-2-480-1b0470093d.avif",
+        "avifBytes": 12951,
+        "webp": "/images/land/saskatchewan-2-480-174deebaf2.webp",
+        "webpBytes": 29994
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/saskatchewan-2-800-870e2a4512.avif",
+        "avifBytes": 38784,
+        "webp": "/images/land/saskatchewan-2-800-f9cc3dd8a4.webp",
+        "webpBytes": 91870
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/saskatchewan-2-1200-b922b8746a.avif",
+        "avifBytes": 92823,
+        "webp": "/images/land/saskatchewan-2-1200-3aadc68a50.webp",
+        "webpBytes": 185990
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/saskatchewan-2-1600-7c60e97539.avif",
+        "avifBytes": 165396,
+        "webp": "/images/land/saskatchewan-2-1600-fdc8c14f44.webp",
+        "webpBytes": 180638
+      }
+    ]
+  },
+  "quebec-1": {
+    "key": "quebec-1",
+    "alt": "Autumn fields and wooded hills in the Charlevoix countryside.",
+    "location": "South of Baie-Saint-Paul, Charlevoix, Quebec",
+    "creator": "LBM1948",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlevoix_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 302,
+        "avif": "/images/land/quebec-1-480-2a1e4df9bd.avif",
+        "avifBytes": 11202,
+        "webp": "/images/land/quebec-1-480-ea1fd4c692.webp",
+        "webpBytes": 24150
+      },
+      {
+        "width": 800,
+        "height": 503,
+        "avif": "/images/land/quebec-1-800-88d8c91f15.avif",
+        "avifBytes": 29393,
+        "webp": "/images/land/quebec-1-800-2388ba4f0b.webp",
+        "webpBytes": 65148
+      },
+      {
+        "width": 1200,
+        "height": 755,
+        "avif": "/images/land/quebec-1-1200-1664c0d467.avif",
+        "avifBytes": 65907,
+        "webp": "/images/land/quebec-1-1200-7430bf64f1.webp",
+        "webpBytes": 144290
+      },
+      {
+        "width": 1600,
+        "height": 1006,
+        "avif": "/images/land/quebec-1-1600-d6a32d3cf7.avif",
+        "avifBytes": 114925,
+        "webp": "/images/land/quebec-1-1600-adeed436f1.webp",
+        "webpBytes": 185748
+      }
+    ]
+  },
+  "manitoba-2": {
+    "key": "manitoba-2",
+    "alt": "A small wooden dock beside blue Deep Lake and boreal forest.",
+    "location": "Deep Lake, Riding Mountain National Park, Manitoba",
+    "creator": "Norm Andreiw",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Deep_Lake_-_Riding_Mountain_National_Park.JPG",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 321,
+        "avif": "/images/land/manitoba-2-480-2f0a3bbdaa.avif",
+        "avifBytes": 11950,
+        "webp": "/images/land/manitoba-2-480-fe8156fd14.webp",
+        "webpBytes": 26170
+      },
+      {
+        "width": 800,
+        "height": 536,
+        "avif": "/images/land/manitoba-2-800-0c89818eb4.avif",
+        "avifBytes": 36542,
+        "webp": "/images/land/manitoba-2-800-ce4e2533fb.webp",
+        "webpBytes": 84880
+      },
+      {
+        "width": 1200,
+        "height": 803,
+        "avif": "/images/land/manitoba-2-1200-00c4118afe.avif",
+        "avifBytes": 91616,
+        "webp": "/images/land/manitoba-2-1200-0604a26e38.webp",
+        "webpBytes": 183802
+      },
+      {
+        "width": 1600,
+        "height": 1071,
+        "avif": "/images/land/manitoba-2-1600-893670f9c6.avif",
+        "avifBytes": 171490,
+        "webp": "/images/land/manitoba-2-1600-93644889a6.webp",
+        "webpBytes": 177780
+      }
+    ]
+  },
+  "nova-scotia-1": {
+    "key": "nova-scotia-1",
+    "alt": "Patchwork farmland and wooded countryside across the Annapolis Valley.",
+    "location": "The Lookoff, North Mountain, Annapolis Valley, Nova Scotia",
+    "creator": "Sares",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Annapolis_Valley_from_lookoff1.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 321,
+        "avif": "/images/land/nova-scotia-1-480-9912afa8a5.avif",
+        "avifBytes": 16828,
+        "webp": "/images/land/nova-scotia-1-480-1d1a17d8bb.webp",
+        "webpBytes": 39620
+      },
+      {
+        "width": 800,
+        "height": 536,
+        "avif": "/images/land/nova-scotia-1-800-b6ecd529f6.avif",
+        "avifBytes": 51296,
+        "webp": "/images/land/nova-scotia-1-800-1f3312f8e6.webp",
+        "webpBytes": 118532
+      },
+      {
+        "width": 1200,
+        "height": 803,
+        "avif": "/images/land/nova-scotia-1-1200-9b37f6607a.avif",
+        "avifBytes": 120159,
+        "webp": "/images/land/nova-scotia-1-1200-4e6b3ee5fb.webp",
+        "webpBytes": 194148
+      }
+    ]
+  },
+  "nova-scotia-2": {
+    "key": "nova-scotia-2",
+    "alt": "Grasses and daisies overlooking the Grand-Pré landscape.",
+    "location": "Grand-Pré, Kings County, Nova Scotia",
+    "creator": "Eric Van Lochem",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand-Pr%C3%A9_National_Historic_Site.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 318,
+        "avif": "/images/land/nova-scotia-2-480-00b58bc87a.avif",
+        "avifBytes": 15388,
+        "webp": "/images/land/nova-scotia-2-480-bded759124.webp",
+        "webpBytes": 33712
+      },
+      {
+        "width": 800,
+        "height": 530,
+        "avif": "/images/land/nova-scotia-2-800-ca2fa15912.avif",
+        "avifBytes": 41854,
+        "webp": "/images/land/nova-scotia-2-800-dd79043209.webp",
+        "webpBytes": 91024
+      },
+      {
+        "width": 1200,
+        "height": 795,
+        "avif": "/images/land/nova-scotia-2-1200-799c9719cc.avif",
+        "avifBytes": 88556,
+        "webp": "/images/land/nova-scotia-2-1200-046b937af6.webp",
+        "webpBytes": 189898
+      },
+      {
+        "width": 1600,
+        "height": 1060,
+        "avif": "/images/land/nova-scotia-2-1600-973b3d603e.avif",
+        "avifBytes": 150215,
+        "webp": "/images/land/nova-scotia-2-1600-949a9479d0.webp",
+        "webpBytes": 184124
+      }
+    ]
+  },
+  "quebec-2": {
+    "key": "quebec-2",
+    "alt": "The Malbaie River winding between forested mountains.",
+    "location": "Hautes-Gorges-de-la-Rivière-Malbaie National Park, Quebec",
+    "creator": "David Touzin (Dav2z)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Malbaie_River_in_Hautes-Gorges-de-la-Rivi%C3%A8re-Malbaie_National_Park,_Quebec,_Canada.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Malbaie_River_in_Hautes-Gorges-de-la-Rivi%C3%A8re-Malbaie_National_Park,_Quebec,_Canada.jpg#Licensing",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/quebec-2-480-6422c13692.avif",
+        "avifBytes": 19188,
+        "webp": "/images/land/quebec-2-480-223ad455d9.webp",
+        "webpBytes": 44576
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/quebec-2-800-c07e4e9ad6.avif",
+        "avifBytes": 55579,
+        "webp": "/images/land/quebec-2-800-aac4ff53c2.webp",
+        "webpBytes": 111606
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/quebec-2-1200-1e880db378.avif",
+        "avifBytes": 127053,
+        "webp": "/images/land/quebec-2-1200-22b619c02e.webp",
+        "webpBytes": 180324
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/quebec-2-1600-48b1bc3658.avif",
+        "avifBytes": 168755,
+        "webp": "/images/land/quebec-2-1600-6b6a994947.webp",
+        "webpBytes": 186984
+      }
+    ]
+  },
+  "new-brunswick-1": {
+    "key": "new-brunswick-1",
+    "alt": "Forested coastal cliffs above the Bay of Fundy.",
+    "location": "Matthews Head, Fundy National Park, New Brunswick",
+    "creator": "Danielle Langlois",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Fundy_National_Park_of_Canada_1.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/new-brunswick-1-480-1200babba7.avif",
+        "avifBytes": 10348,
+        "webp": "/images/land/new-brunswick-1-480-cdf892eb0e.webp",
+        "webpBytes": 19828
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/new-brunswick-1-800-9a91ecd007.avif",
+        "avifBytes": 26920,
+        "webp": "/images/land/new-brunswick-1-800-d4f98d67e3.webp",
+        "webpBytes": 52676
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/new-brunswick-1-1200-e076f7ec1b.avif",
+        "avifBytes": 56084,
+        "webp": "/images/land/new-brunswick-1-1200-95ec63a5b2.webp",
+        "webpBytes": 100328
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/new-brunswick-1-1600-63b8cb5ab2.avif",
+        "avifBytes": 90235,
+        "webp": "/images/land/new-brunswick-1-1600-424bd755ed.webp",
+        "webpBytes": 153978
+      }
+    ]
+  },
+  "prince-edward-island-1": {
+    "key": "prince-edward-island-1",
+    "alt": "Aerial view of farmland and forest near Scotchfort.",
+    "location": "Near Scotchfort 4, Prince Edward Island",
+    "creator": "Hayden Soloviev",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Farmland_near_Scotchfort_4,_Prince_Edward_Island.jpg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/prince-edward-island-1-480-b6390b9b21.avif",
+        "avifBytes": 9738,
+        "webp": "/images/land/prince-edward-island-1-480-79a5ae2594.webp",
+        "webpBytes": 19774
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/prince-edward-island-1-800-2a39789eaf.avif",
+        "avifBytes": 25423,
+        "webp": "/images/land/prince-edward-island-1-800-25c76f95f4.webp",
+        "webpBytes": 52052
+      },
+      {
+        "width": 1200,
+        "height": 899,
+        "avif": "/images/land/prince-edward-island-1-1200-e37cf6a28c.avif",
+        "avifBytes": 55422,
+        "webp": "/images/land/prince-edward-island-1-1200-b6ca2d85da.webp",
+        "webpBytes": 115958
+      },
+      {
+        "width": 1600,
+        "height": 1199,
+        "avif": "/images/land/prince-edward-island-1-1600-c31d11f2e8.avif",
+        "avifBytes": 98099,
+        "webp": "/images/land/prince-edward-island-1-1600-462a2329f1.webp",
+        "webpBytes": 172556
+      }
+    ]
+  },
+  "new-brunswick-2": {
+    "key": "new-brunswick-2",
+    "alt": "Dickson Falls cascading through a mossy forest in Fundy National Park.",
+    "location": "Dickson Falls, Fundy National Park, New Brunswick",
+    "creator": "Danielle Langlois",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Fundy_National_Park_of_Canada_10.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/new-brunswick-2-480-b2f49242cb.avif",
+        "avifBytes": 24215,
+        "webp": "/images/land/new-brunswick-2-480-f4e456133d.webp",
+        "webpBytes": 53120
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/new-brunswick-2-800-7e119e5a13.avif",
+        "avifBytes": 62850,
+        "webp": "/images/land/new-brunswick-2-800-a053cf6e63.webp",
+        "webpBytes": 117354
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/new-brunswick-2-1200-c6085adc18.avif",
+        "avifBytes": 124661,
+        "webp": "/images/land/new-brunswick-2-1200-6d75ecd1ca.webp",
+        "webpBytes": 190812
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/new-brunswick-2-1600-11b00e4226.avif",
+        "avifBytes": 194845,
+        "webp": "/images/land/new-brunswick-2-1600-7c7fffa8c8.webp",
+        "webpBytes": 189170
+      }
+    ]
+  },
+  "prince-edward-island-2": {
+    "key": "prince-edward-island-2",
+    "alt": "Red sandstone cliffs and a lone evergreen above the sea at Beach Point.",
+    "location": "Beach Point, Prince Edward Island",
+    "creator": "Robert Linsdell from St. Andrews, Canada",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Beach_Point_Coast,_Prince_Edward_Island_(471039)_(9447853025).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 270,
+        "avif": "/images/land/prince-edward-island-2-480-3880dbaea1.avif",
+        "avifBytes": 11562,
+        "webp": "/images/land/prince-edward-island-2-480-a817c765c2.webp",
+        "webpBytes": 26576
+      },
+      {
+        "width": 800,
+        "height": 450,
+        "avif": "/images/land/prince-edward-island-2-800-0817f25ee4.avif",
+        "avifBytes": 34249,
+        "webp": "/images/land/prince-edward-island-2-800-682c0bb365.webp",
+        "webpBytes": 82766
+      },
+      {
+        "width": 1200,
+        "height": 674,
+        "avif": "/images/land/prince-edward-island-2-1200-9b773eee4c.avif",
+        "avifBytes": 82954,
+        "webp": "/images/land/prince-edward-island-2-1200-3b331aa354.webp",
+        "webpBytes": 175906
+      },
+      {
+        "width": 1600,
+        "height": 899,
+        "avif": "/images/land/prince-edward-island-2-1600-0eb5da7b1a.avif",
+        "avifBytes": 154818,
+        "webp": "/images/land/prince-edward-island-2-1600-f82f000421.webp",
+        "webpBytes": 181496
+      }
+    ]
+  },
+  "newfoundland-and-labrador-1": {
+    "key": "newfoundland-and-labrador-1",
+    "alt": "Coastal wetland with the Long Range Mountains beyond.",
+    "location": "Near St. Pauls, Gros Morne National Park, Newfoundland and Labrador",
+    "creator": "Michel Rathwell from Cornwall, Canada",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Landscapes_Newfoundland_(39555134780).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/newfoundland-and-labrador-1-480-4748456d7c.avif",
+        "avifBytes": 11509,
+        "webp": "/images/land/newfoundland-and-labrador-1-480-217ded440c.webp",
+        "webpBytes": 27906
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/newfoundland-and-labrador-1-800-d27166e925.avif",
+        "avifBytes": 31016,
+        "webp": "/images/land/newfoundland-and-labrador-1-800-c89ef756f3.webp",
+        "webpBytes": 78352
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/newfoundland-and-labrador-1-1200-e8c3296582.avif",
+        "avifBytes": 66755,
+        "webp": "/images/land/newfoundland-and-labrador-1-1200-92208a0606.webp",
+        "webpBytes": 160154
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/newfoundland-and-labrador-1-1600-b3cdfa50c2.avif",
+        "avifBytes": 110924,
+        "webp": "/images/land/newfoundland-and-labrador-1-1600-43972e6bc2.webp",
+        "webpBytes": 193160
+      }
+    ]
+  },
+  "newfoundland-and-labrador-2": {
+    "key": "newfoundland-and-labrador-2",
+    "alt": "Wigwam Pond surrounded by boreal forest and rolling mountains.",
+    "location": "Wigwam Pond, Gros Morne National Park, Newfoundland and Labrador",
+    "creator": "Michel Rathwell from Cornwall, Canada",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Wigwam_Pond_and_surrounding_landscape_in_Gros_Morne_National_Park.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/newfoundland-and-labrador-2-480-54b30d4891.avif",
+        "avifBytes": 13756,
+        "webp": "/images/land/newfoundland-and-labrador-2-480-f1d22ac853.webp",
+        "webpBytes": 32588
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/newfoundland-and-labrador-2-800-fa1fcd83bf.avif",
+        "avifBytes": 36455,
+        "webp": "/images/land/newfoundland-and-labrador-2-800-29c037e66a.webp",
+        "webpBytes": 85134
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/newfoundland-and-labrador-2-1200-d84f3d5ce8.avif",
+        "avifBytes": 73460,
+        "webp": "/images/land/newfoundland-and-labrador-2-1200-a9243aa8fa.webp",
+        "webpBytes": 166554
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/newfoundland-and-labrador-2-1600-fcc4e5cefb.avif",
+        "avifBytes": 118795,
+        "webp": "/images/land/newfoundland-and-labrador-2-1600-de9e061b27.webp",
+        "webpBytes": 181744
+      }
+    ]
+  },
+  "yukon-1": {
+    "key": "yukon-1",
+    "alt": "Evening waves on Kathleen Lake beneath snow-streaked mountains.",
+    "location": "Kathleen Lake, Kluane National Park and Reserve, Yukon",
+    "creator": "Jakub Fryš",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Evening_on_Kathleen_Lake.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 318,
+        "avif": "/images/land/yukon-1-480-9c89827e86.avif",
+        "avifBytes": 14694,
+        "webp": "/images/land/yukon-1-480-4114783002.webp",
+        "webpBytes": 33086
+      },
+      {
+        "width": 800,
+        "height": 530,
+        "avif": "/images/land/yukon-1-800-c7821426d3.avif",
+        "avifBytes": 40469,
+        "webp": "/images/land/yukon-1-800-f6819b7861.webp",
+        "webpBytes": 91516
+      },
+      {
+        "width": 1200,
+        "height": 795,
+        "avif": "/images/land/yukon-1-1200-27c56b53f6.avif",
+        "avifBytes": 89771,
+        "webp": "/images/land/yukon-1-1200-087a248c2e.webp",
+        "webpBytes": 175244
+      },
+      {
+        "width": 1600,
+        "height": 1060,
+        "avif": "/images/land/yukon-1-1600-d8f414d106.avif",
+        "avifBytes": 159034,
+        "webp": "/images/land/yukon-1-1600-1075837dca.webp",
+        "webpBytes": 194488
+      }
+    ]
+  },
+  "yukon-2": {
+    "key": "yukon-2",
+    "alt": "Broad northern valley beneath the St. Elias Mountains and summer clouds.",
+    "location": "Alaska Highway toward Kluane Lake, Yukon",
+    "creator": "Murray Foubister",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hwy_1_to_Kluane_Lake_-_looking_at_the_St_Elias_Mtns_to_the_SW_of_the_Alaska_Hwy._(16005218348).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/yukon-2-480-48f73f46c0.avif",
+        "avifBytes": 10485,
+        "webp": "/images/land/yukon-2-480-4fa05004b7.webp",
+        "webpBytes": 20552
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/yukon-2-800-e38e280dce.avif",
+        "avifBytes": 25922,
+        "webp": "/images/land/yukon-2-800-ccf7926b2c.webp",
+        "webpBytes": 53414
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/yukon-2-1200-4868d3b475.avif",
+        "avifBytes": 55380,
+        "webp": "/images/land/yukon-2-1200-62106e0775.webp",
+        "webpBytes": 116482
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/yukon-2-1600-14773bcffd.avif",
+        "avifBytes": 100021,
+        "webp": "/images/land/yukon-2-1600-d90e514b7b.webp",
+        "webpBytes": 174856
+      }
+    ]
+  },
+  "northwest-territories-1": {
+    "key": "northwest-territories-1",
+    "alt": "Sandy Hay River beach beside the blue waters of Great Slave Lake.",
+    "location": "Hay River, Great Slave Lake, Northwest Territories",
+    "creator": "CambridgeBayWeather",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hay_River_beach_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 250,
+        "avif": "/images/land/northwest-territories-1-480-c7be5ea13b.avif",
+        "avifBytes": 8152,
+        "webp": "/images/land/northwest-territories-1-480-5f184d3652.webp",
+        "webpBytes": 18190
+      },
+      {
+        "width": 800,
+        "height": 417,
+        "avif": "/images/land/northwest-territories-1-800-0b14dc41b5.avif",
+        "avifBytes": 22226,
+        "webp": "/images/land/northwest-territories-1-800-b23e35b358.webp",
+        "webpBytes": 50954
+      },
+      {
+        "width": 1200,
+        "height": 625,
+        "avif": "/images/land/northwest-territories-1-1200-8f4f07b443.avif",
+        "avifBytes": 50048,
+        "webp": "/images/land/northwest-territories-1-1200-da64104131.webp",
+        "webpBytes": 113560
+      },
+      {
+        "width": 1600,
+        "height": 833,
+        "avif": "/images/land/northwest-territories-1-1600-7127dd10f7.avif",
+        "avifBytes": 87931,
+        "webp": "/images/land/northwest-territories-1-1600-0bc3502862.webp",
+        "webpBytes": 174378
+      }
+    ]
+  },
+  "northwest-territories-2": {
+    "key": "northwest-territories-2",
+    "alt": "A northern river flowing between forested cliffs in Nahanni National Park Reserve.",
+    "location": "Nahanni National Park Reserve, Northwest Territories",
+    "creator": "Fort Simpson Chamber of Commerce",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nahanni_National_Park_Reserve_(9101243359).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/northwest-territories-2-480-ceabff7feb.avif",
+        "avifBytes": 11832,
+        "webp": "/images/land/northwest-territories-2-480-216a767473.webp",
+        "webpBytes": 24744
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/northwest-territories-2-800-50e62012e5.avif",
+        "avifBytes": 34456,
+        "webp": "/images/land/northwest-territories-2-800-4ac2f056ad.webp",
+        "webpBytes": 78192
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/northwest-territories-2-1200-da3cd4a930.avif",
+        "avifBytes": 80791,
+        "webp": "/images/land/northwest-territories-2-1200-557b001752.webp",
+        "webpBytes": 184794
+      },
+      {
+        "width": 1600,
+        "height": 1200,
+        "avif": "/images/land/northwest-territories-2-1600-fc299a64d8.avif",
+        "avifBytes": 141754,
+        "webp": "/images/land/northwest-territories-2-1600-43cd87a546.webp",
+        "webpBytes": 188506
+      }
+    ]
+  },
+  "nunavut-2": {
+    "key": "nunavut-2",
+    "alt": "Arctic mountains and tundra at the southern entrance to Auyuittuq National Park.",
+    "location": "Weasel River mouth, Pangnirtung Fiord, Auyuittuq National Park, Baffin Island, Nunavut",
+    "creator": "Ansgar Walk",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Pangnirtung_Fiord_S_2_2001-07-15.jpg",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 312,
+        "avif": "/images/land/nunavut-2-480-0c302c5d02.avif",
+        "avifBytes": 11767,
+        "webp": "/images/land/nunavut-2-480-961e2c9f1a.webp",
+        "webpBytes": 24510
+      },
+      {
+        "width": 800,
+        "height": 520,
+        "avif": "/images/land/nunavut-2-800-0840e1f540.avif",
+        "avifBytes": 31496,
+        "webp": "/images/land/nunavut-2-800-9c3e06ae0e.webp",
+        "webpBytes": 69958
+      },
+      {
+        "width": 1200,
+        "height": 780,
+        "avif": "/images/land/nunavut-2-1200-1196283d11.avif",
+        "avifBytes": 69947,
+        "webp": "/images/land/nunavut-2-1200-173d728186.webp",
+        "webpBytes": 168708
+      },
+      {
+        "width": 1600,
+        "height": 1040,
+        "avif": "/images/land/nunavut-2-1600-d590489f9a.avif",
+        "avifBytes": 125438,
+        "webp": "/images/land/nunavut-2-1600-e8f2f20dfc.webp",
+        "webpBytes": 183510
+      }
+    ]
+  },
+  "nunavut-1": {
+    "key": "nunavut-1",
+    "alt": "Red and golden tundra vegetation around a small Arctic lake.",
+    "location": "Nunavut tundra",
+    "creator": "ADialla",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Nunavut_tundra_-a.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "position": "50% 50%",
+    "files": [
+      {
+        "width": 480,
+        "height": 266,
+        "avif": "/images/land/nunavut-1-480-03cc637c5b.avif",
+        "avifBytes": 18539,
+        "webp": "/images/land/nunavut-1-480-5c5baba7e7.webp",
+        "webpBytes": 45284
+      },
+      {
+        "width": 800,
+        "height": 443,
+        "avif": "/images/land/nunavut-1-800-de0db08302.avif",
+        "avifBytes": 52917,
+        "webp": "/images/land/nunavut-1-800-147978b1c9.webp",
+        "webpBytes": 116514
+      },
+      {
+        "width": 1200,
+        "height": 665,
+        "avif": "/images/land/nunavut-1-1200-781d312d90.avif",
+        "avifBytes": 124139,
+        "webp": "/images/land/nunavut-1-1200-bf0ed1dc12.webp",
+        "webpBytes": 189066
+      },
+      {
+        "width": 1600,
+        "height": 886,
+        "avif": "/images/land/nunavut-1-1600-b3c5a24083.avif",
+        "avifBytes": 168833,
+        "webp": "/images/land/nunavut-1-1600-2bef00af50.webp",
+        "webpBytes": 193652
+      }
+    ]
+  },
+  "quebec-septic-installation": {
+    "key": "quebec-septic-installation",
+    "alt": "An 850-gallon concrete septic tank with two round access lids sits in an excavation before backfilling.",
+    "location": "Quebec, Canada",
+    "creator": "Nonztp",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Septic_tank_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "position": "50% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 360,
+        "avif": "/images/land/quebec-septic-installation-480-47354a11cc.avif",
+        "avifBytes": 24371,
+        "webp": "/images/land/quebec-septic-installation-480-eb94f4999c.webp",
+        "webpBytes": 54064
+      },
+      {
+        "width": 800,
+        "height": 600,
+        "avif": "/images/land/quebec-septic-installation-800-169af9541e.avif",
+        "avifBytes": 74754,
+        "webp": "/images/land/quebec-septic-installation-800-3307dfe1d8.webp",
+        "webpBytes": 114020
+      },
+      {
+        "width": 1200,
+        "height": 900,
+        "avif": "/images/land/quebec-septic-installation-1200-ca066a8a3b.avif",
+        "avifBytes": 172993,
+        "webp": "/images/land/quebec-septic-installation-1200-aed49973aa.webp",
+        "webpBytes": 180814
+      }
+    ]
+  },
+  "private-well-equipment": {
+    "key": "private-well-equipment",
+    "alt": "A private water well, blue pressure tank and connected pipes stand inside a wire fence below a rural house.",
+    "location": "Technical well example · United States",
+    "creator": "Dara Goldrath / U.S. Geological Survey",
+    "sourcePage": "https://www.usgs.gov/media/images/domestic-private-well",
+    "license": "Public Domain (USGS work)",
+    "licenseUrl": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+    "position": "70% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 514,
+        "avif": "/images/land/private-well-equipment-480-12671e0543.avif",
+        "avifBytes": 28879,
+        "webp": "/images/land/private-well-equipment-480-333086d5c3.webp",
+        "webpBytes": 58698
+      },
+      {
+        "width": 800,
+        "height": 857,
+        "avif": "/images/land/private-well-equipment-800-29f8957c5c.avif",
+        "avifBytes": 79892,
+        "webp": "/images/land/private-well-equipment-800-11135cfe8c.webp",
+        "webpBytes": 115112
+      },
+      {
+        "width": 1200,
+        "height": 1286,
+        "avif": "/images/land/private-well-equipment-1200-2b85c8b65a.avif",
+        "avifBytes": 165159,
+        "webp": "/images/land/private-well-equipment-1200-bc76f42d26.webp",
+        "webpBytes": 187230
+      },
+      {
+        "width": 1600,
+        "height": 1714,
+        "avif": "/images/land/private-well-equipment-1600-ac831dd9f2.avif",
+        "avifBytes": 157760,
+        "webp": "/images/land/private-well-equipment-1600-946c3f980f.webp",
+        "webpBytes": 180212
+      }
+    ]
+  },
+  "bc-forest-surveyor": {
+    "key": "bc-forest-surveyor",
+    "alt": "A surveyor in a reflective vest adjusts a total station mounted on a tripod among evergreen trees.",
+    "location": "British Columbia, Canada · source geotag",
+    "creator": "Hugo Chisholm",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dylan_surveying.jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "position": "50% 75%",
+    "files": [
+      {
+        "width": 480,
+        "height": 640,
+        "avif": "/images/land/bc-forest-surveyor-480-778a4c6a4f.avif",
+        "avifBytes": 29936,
+        "webp": "/images/land/bc-forest-surveyor-480-f1c35b72b6.webp",
+        "webpBytes": 56736
+      },
+      {
+        "width": 800,
+        "height": 1067,
+        "avif": "/images/land/bc-forest-surveyor-800-df63f20552.avif",
+        "avifBytes": 64688,
+        "webp": "/images/land/bc-forest-surveyor-800-8e89a16407.webp",
+        "webpBytes": 112228
+      },
+      {
+        "width": 1200,
+        "height": 1600,
+        "avif": "/images/land/bc-forest-surveyor-1200-45c05ec368.avif",
+        "avifBytes": 115002,
+        "webp": "/images/land/bc-forest-surveyor-1200-865eebe8d9.webp",
+        "webpBytes": 177416
+      },
+      {
+        "width": 1600,
+        "height": 2133,
+        "avif": "/images/land/bc-forest-surveyor-1600-5169fb9c74.avif",
+        "avifBytes": 177937,
+        "webp": "/images/land/bc-forest-surveyor-1600-7cdf953665.webp",
+        "webpBytes": 190042
+      }
+    ]
+  },
+  "brant-farm-road": {
+    "key": "brant-farm-road",
+    "alt": "A gravel farm road runs beside golden autumn trees, a wire fence and utility poles in Brant County.",
+    "location": "Brant County, Ontario, Canada",
+    "creator": "Michael Hamments",
+    "sourcePage": "https://unsplash.com/photos/a-country-road-surrounded-by-trees-with-yellow-leaves-bZhlcpWSwNM",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "65% 60%",
+    "files": [
+      {
+        "width": 480,
+        "height": 316,
+        "avif": "/images/land/brant-farm-road-480-2a94089b8b.avif",
+        "avifBytes": 20340,
+        "webp": "/images/land/brant-farm-road-480-926add18a7.webp",
+        "webpBytes": 51082
+      },
+      {
+        "width": 800,
+        "height": 527,
+        "avif": "/images/land/brant-farm-road-800-c713f79f6c.avif",
+        "avifBytes": 55384,
+        "webp": "/images/land/brant-farm-road-800-abcdcf8a67.webp",
+        "webpBytes": 113194
+      },
+      {
+        "width": 1200,
+        "height": 790,
+        "avif": "/images/land/brant-farm-road-1200-891db3a9ce.avif",
+        "avifBytes": 112406,
+        "webp": "/images/land/brant-farm-road-1200-1756ecd7dc.webp",
+        "webpBytes": 194810
+      },
+      {
+        "width": 1600,
+        "height": 1053,
+        "avif": "/images/land/brant-farm-road-1600-06da8296a0.avif",
+        "avifBytes": 176723,
+        "webp": "/images/land/brant-farm-road-1600-c9185106c6.webp",
+        "webpBytes": 178378
+      }
+    ]
+  },
+  "ontario-rustic-farmhouse": {
+    "key": "ontario-rustic-farmhouse",
+    "alt": "A wet driveway curves toward a weathered farmhouse and timber outbuildings beside open farmland under dark clouds.",
+    "location": "Ontario, Canada",
+    "creator": "Shawn Kent",
+    "sourcePage": "https://unsplash.com/photos/a-dirt-road-leads-to-an-old-farm-house-pPdJiVajca8",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/ontario-rustic-farmhouse-480-b883ff64a6.avif",
+        "avifBytes": 11150,
+        "webp": "/images/land/ontario-rustic-farmhouse-480-a02ee70654.webp",
+        "webpBytes": 24702
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/ontario-rustic-farmhouse-800-0039ee35aa.avif",
+        "avifBytes": 31127,
+        "webp": "/images/land/ontario-rustic-farmhouse-800-c6a2ecbbed.webp",
+        "webpBytes": 68864
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/ontario-rustic-farmhouse-1200-c732ef5c67.avif",
+        "avifBytes": 65657,
+        "webp": "/images/land/ontario-rustic-farmhouse-1200-67845b0ecc.webp",
+        "webpBytes": 142424
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/ontario-rustic-farmhouse-1600-33b338adbf.avif",
+        "avifBytes": 108963,
+        "webp": "/images/land/ontario-rustic-farmhouse-1600-500a8095b7.webp",
+        "webpBytes": 186458
+      }
+    ]
+  },
+  "ontario-hay-barn": {
+    "key": "ontario-hay-barn",
+    "alt": "A red and timber barn with green roofs stands behind a field of round hay bales in rural Ontario.",
+    "location": "Rural Ontario, Canada",
+    "creator": "Darren Swim (Relic38)",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Red_Barn_Ontario_(2231)-Relic38.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "position": "60% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/ontario-hay-barn-480-ac7fc5957f.avif",
+        "avifBytes": 9618,
+        "webp": "/images/land/ontario-hay-barn-480-4b42256bcc.webp",
+        "webpBytes": 20654
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/ontario-hay-barn-800-2fed5044e8.avif",
+        "avifBytes": 27454,
+        "webp": "/images/land/ontario-hay-barn-800-d6f4f4c58b.webp",
+        "webpBytes": 60782
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/ontario-hay-barn-1200-81f42ea40c.avif",
+        "avifBytes": 61600,
+        "webp": "/images/land/ontario-hay-barn-1200-d93eec26cb.webp",
+        "webpBytes": 131640
+      },
+      {
+        "width": 1600,
+        "height": 1067,
+        "avif": "/images/land/ontario-hay-barn-1600-a3bcdbf3ac.avif",
+        "avifBytes": 106508,
+        "webp": "/images/land/ontario-hay-barn-1600-1dc2585452.webp",
+        "webpBytes": 187490
+      }
+    ]
+  },
+  "residential-house-grounds": {
+    "key": "residential-house-grounds",
+    "alt": "A pale yellow country house with a wraparound porch, metal roof, lawn and flower bed behind a wire fence.",
+    "location": "Brébeuf, Quebec, Canada",
+    "creator": "Pascal Bernardon",
+    "sourcePage": "https://unsplash.com/photos/a-large-yellow-house-with-a-metal-roof-PU0fl-N0IJU",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 55%",
+    "files": [
+      {
+        "width": 480,
+        "height": 244,
+        "avif": "/images/land/residential-house-grounds-480-c8ef4b1c38.avif",
+        "avifBytes": 9976,
+        "webp": "/images/land/residential-house-grounds-480-342b787c34.webp",
+        "webpBytes": 23546
+      },
+      {
+        "width": 800,
+        "height": 407,
+        "avif": "/images/land/residential-house-grounds-800-c27c070b2f.avif",
+        "avifBytes": 24180,
+        "webp": "/images/land/residential-house-grounds-800-e81c1f4334.webp",
+        "webpBytes": 57748
+      },
+      {
+        "width": 1200,
+        "height": 611,
+        "avif": "/images/land/residential-house-grounds-1200-118dc13c72.avif",
+        "avifBytes": 49350,
+        "webp": "/images/land/residential-house-grounds-1200-c2b3c47249.webp",
+        "webpBytes": 121844
+      }
+    ]
+  },
+  "hobby-farm-growing": {
+    "key": "hobby-farm-growing",
+    "alt": "A woman walks between planted vegetable beds and a greenhouse, with open fields behind the garden.",
+    "location": "Témiscamingue, Quebec, Canada",
+    "creator": "MRC Témiscamingue",
+    "sourcePage": "https://unsplash.com/photos/a-woman-walking-down-a-dirt-road-next-to-a-lush-green-field-VWYPMsKeKJQ",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 60%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/hobby-farm-growing-480-08235544fe.avif",
+        "avifBytes": 18118,
+        "webp": "/images/land/hobby-farm-growing-480-c52213c88c.webp",
+        "webpBytes": 40896
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/hobby-farm-growing-800-631fcf6c0a.avif",
+        "avifBytes": 47547,
+        "webp": "/images/land/hobby-farm-growing-800-b999071997.webp",
+        "webpBytes": 107148
+      },
+      {
+        "width": 1200,
+        "height": 801,
+        "avif": "/images/land/hobby-farm-growing-1200-a827666c99.avif",
+        "avifBytes": 98661,
+        "webp": "/images/land/hobby-farm-growing-1200-0dac9422ae.webp",
+        "webpBytes": 188354
+      }
+    ]
+  },
+  "ontario-horse-paddock": {
+    "key": "ontario-horse-paddock",
+    "alt": "Two horses stand behind a wire fence, with green pasture and a red barn in the background.",
+    "location": "Windsong Horse and Carriage Ranch, Bognor, Ontario, Canada",
+    "creator": "Robert Taylor",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Windsong_Ranch,_Bognor,_ON_8549_(9198114172).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "position": "50% 58%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/ontario-horse-paddock-480-521639793d.avif",
+        "avifBytes": 11450,
+        "webp": "/images/land/ontario-horse-paddock-480-84ec898e30.webp",
+        "webpBytes": 25972
+      },
+      {
+        "width": 800,
+        "height": 533,
+        "avif": "/images/land/ontario-horse-paddock-800-50a03df5e5.avif",
+        "avifBytes": 26794,
+        "webp": "/images/land/ontario-horse-paddock-800-a76765b2a9.webp",
+        "webpBytes": 58200
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/ontario-horse-paddock-1200-c9296e3e86.avif",
+        "avifBytes": 49345,
+        "webp": "/images/land/ontario-horse-paddock-1200-b47b057d5c.webp",
+        "webpBytes": 105750
+      }
+    ]
+  },
+  "quebec-cottage-dock": {
+    "key": "quebec-cottage-dock",
+    "alt": "A wooden dock leads from calm lake water to a grassy shore and timber chalet surrounded by trees.",
+    "location": "Sainte-Anne-du-Lac, Quebec, Canada",
+    "creator": "daniel baylis",
+    "sourcePage": "https://unsplash.com/photos/gray-dock-during-daytime-j17qSSUY8dQ",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 55%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/quebec-cottage-dock-480-3c8de1f6ad.avif",
+        "avifBytes": 11168,
+        "webp": "/images/land/quebec-cottage-dock-480-e730dec8b1.webp",
+        "webpBytes": 23420
+      },
+      {
+        "width": 800,
+        "height": 534,
+        "avif": "/images/land/quebec-cottage-dock-800-470b5e0ce5.avif",
+        "avifBytes": 27526,
+        "webp": "/images/land/quebec-cottage-dock-800-e3bc7e4b43.webp",
+        "webpBytes": 59420
+      },
+      {
+        "width": 1200,
+        "height": 801,
+        "avif": "/images/land/quebec-cottage-dock-1200-7ba46e265d.avif",
+        "avifBytes": 56621,
+        "webp": "/images/land/quebec-cottage-dock-1200-ab9dcee682.webp",
+        "webpBytes": 126960
+      }
+    ]
+  },
+  "quebec-open-rural-land": {
+    "key": "quebec-open-rural-land",
+    "alt": "An open green field overlooks autumn woodland, scattered farm fields and distant hills under a blue sky.",
+    "location": "Sainte-Catherine-de-Hatley, Quebec, Canada",
+    "creator": "Frederick Wallace",
+    "sourcePage": "https://unsplash.com/photos/a-green-field-with-mountains-in-the-background-Gf9mVmr4_CQ",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 167,
+        "avif": "/images/land/quebec-open-rural-land-480-3971c0185a.avif",
+        "avifBytes": 4603,
+        "webp": "/images/land/quebec-open-rural-land-480-4cf72c59d3.webp",
+        "webpBytes": 9408
+      },
+      {
+        "width": 800,
+        "height": 278,
+        "avif": "/images/land/quebec-open-rural-land-800-f56f899787.avif",
+        "avifBytes": 11694,
+        "webp": "/images/land/quebec-open-rural-land-800-12df23432b.webp",
+        "webpBytes": 26188
+      },
+      {
+        "width": 1200,
+        "height": 417,
+        "avif": "/images/land/quebec-open-rural-land-1200-7e3a0f5dd2.avif",
+        "avifBytes": 25481,
+        "webp": "/images/land/quebec-open-rural-land-1200-87f26233ab.webp",
+        "webpBytes": 60416
+      }
+    ]
+  },
+  "ontario-woodland-trail": {
+    "key": "ontario-woodland-trail",
+    "alt": "A leaf-covered trail winds over exposed tree roots through tall forest trees in soft sunlight.",
+    "location": "Algonquin Provincial Park, Ontario, Canada",
+    "creator": "Trevor Minett",
+    "sourcePage": "https://unsplash.com/photos/a-path-in-a-forest-n5EHs5vL4rs",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "position": "50% 65%",
+    "files": [
+      {
+        "width": 480,
+        "height": 320,
+        "avif": "/images/land/ontario-woodland-trail-480-313a3fb37d.avif",
+        "avifBytes": 17658,
+        "webp": "/images/land/ontario-woodland-trail-480-564eb45fc7.webp",
+        "webpBytes": 42536
+      },
+      {
+        "width": 800,
+        "height": 533,
+        "avif": "/images/land/ontario-woodland-trail-800-04be5b150d.avif",
+        "avifBytes": 46768,
+        "webp": "/images/land/ontario-woodland-trail-800-49a467e110.webp",
+        "webpBytes": 109138
+      },
+      {
+        "width": 1200,
+        "height": 800,
+        "avif": "/images/land/ontario-woodland-trail-1200-504cdf8bf5.avif",
+        "avifBytes": 97601,
+        "webp": "/images/land/ontario-woodland-trail-1200-77d4030756.webp",
+        "webpBytes": 182266
+      }
+    ]
+  }
+}

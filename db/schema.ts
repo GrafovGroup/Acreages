@@ -1,0 +1,2 @@
+import{sqliteTable,text,integer,index}from'drizzle-orm/sqlite-core';
+export const enquiries=sqliteTable('enquiries',{id:text('id').primaryKey(),reference:text('reference').notNull(),createdAt:integer('created_at').notNull(),intent:text('intent').notNull(),status:text('status').notNull().default('new'),name:text('name').notNull(),email:text('email').notNull(),location:text('location').notNull(),details:text('details').notNull(),ipHash:text('ip_hash').notNull()},t=>[index('idx_enquiries_ip_created').on(t.ipHash,t.createdAt)]);

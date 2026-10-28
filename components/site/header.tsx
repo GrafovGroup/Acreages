@@ -1,0 +1,6 @@
+'use client';
+import{usePathname}from'next/navigation';
+import{Logo}from'./logo';
+import{Sheet,SheetContent,SheetTrigger,SheetTitle,SheetDescription}from'@/components/ui/sheet';
+const links=[['/explore/','Find your space'],['/sell/','Prepare to sell'],['/guides/','The field guide'],['/buy/','Build my plan'],['/specialists/','Find a specialist']];
+export function Header(){const pathname=usePathname();const current=(p:string)=>pathname?.replace(/\/$/,'')===p.replace(/\/$/,'')?'page':undefined;return <header className="site-header"><Logo/><nav aria-label="Main navigation">{links.slice(0,3).map(([p,n])=><a key={p} href={p} aria-current={current(p)}>{n.toUpperCase()}</a>)}</nav><a className="header-cta" href="/buy/" aria-current={current("/buy/")}>BUILD MY PLAN ↗</a><div className="mobile-menu"><Sheet><SheetTrigger className="menu-trigger">MENU <span aria-hidden>☰</span></SheetTrigger><SheetContent><SheetTitle><Logo linked={false}/></SheetTitle><SheetDescription>Find your next chapter.</SheetDescription><nav aria-label="Mobile navigation">{links.map(([p,n])=><a key={p} href={p} aria-current={current(p)}>{n.toUpperCase()}</a>)}<a href="/partners/">PARTNER WITH ACREAGES</a></nav></SheetContent></Sheet></div></header>}

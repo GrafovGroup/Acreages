@@ -1,0 +1,1 @@
+import{Button}from'@/components/site/common';export default function NotFound(){return <main id="main" className="wrap section"><p className="eyebrow">PAGE NOT FOUND</p><h1>Let’s find<br/>your way back.</h1><p>This address doesn’t match an Acreages page.</p><Button href="/explore/">EXPLORE CANADA</Button></main>}

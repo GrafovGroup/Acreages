@@ -1,0 +1,1182 @@
+{
+  "regions": [
+    {
+      "name": "Ontario",
+      "slug": "ontario",
+      "code": "ON",
+      "heading": "Country lanes. Connected living.",
+      "intro": "From southern farm country to lake-and-forest retreats, Ontario gives an acreage search several very different directions. Start with the community you need to reach, then compare the land, home and year-round access.",
+      "check": "Ask the municipality about zoning and the relevant conservation authority about regulated features. Review private water and wastewater systems before relying on an existing dwelling or a future building plan.",
+      "source": "https://www.ontario.ca/page/septic-systems",
+      "sourceName": "Ontario septic-system guidance"
+    },
+    {
+      "name": "Alberta",
+      "slug": "alberta",
+      "code": "AB",
+      "heading": "Open skies. Room to make it yours.",
+      "intro": "Explore acreage living around Calgary, Edmonton and Alberta’s regional centres. Consider how the home site, pasture, shelterbelts and outbuildings fit the way you want to use the land.",
+      "check": "Discuss access, water supply, drainage and existing rights with the appropriate professionals. Land ownership and permission to change its use are separate questions.",
+      "source": "https://www.alberta.ca/rural-landowner-concerns",
+      "sourceName": "Alberta rural landowner resources"
+    },
+    {
+      "name": "British Columbia",
+      "slug": "british-columbia",
+      "code": "BC",
+      "heading": "Between the mountains and the water.",
+      "intro": "Compare valley properties, island country homes and interior land. In British Columbia, the usable ground, access route and local setting can matter as much as the acreage on paper.",
+      "check": "Check whether a parcel is in the Agricultural Land Reserve. Agriculture is its priority use, so a rural setting should not be treated as permission for subdivision or a different business.",
+      "source": "https://www.alc.gov.bc.ca/use-of-alr-land/buying-and-owning-land-in-the-alr/",
+      "sourceName": "Buying and owning ALR land"
+    },
+    {
+      "name": "Saskatchewan",
+      "slug": "saskatchewan",
+      "code": "SK",
+      "heading": "A bigger horizon.",
+      "intro": "Start with the prairie community you want nearby, then decide how much land you want to maintain. Shelter, reliable access and the relationship between the residence and any working land belong in the brief.",
+      "check": "Check title, registered interests, municipal land-use rules and any farm-ownership requirements that apply to your circumstances. Confirm what is included in the land being offered.",
+      "source": "https://www.saskatchewan.ca/government/government-structure/boards-commissions-and-agencies/farm-land-security-board-and-farm-ownership/farm-ownership",
+      "sourceName": "Saskatchewan farm ownership"
+    },
+    {
+      "name": "Manitoba",
+      "slug": "manitoba",
+      "code": "MB",
+      "heading": "Prairie space. Lake-country possibilities.",
+      "intro": "An acreage search in Manitoba can centre on a city connection, an agricultural community or a recreational setting. Separate the needs of a full-time home from those of a seasonal retreat.",
+      "check": "Review drainage, road access and the existing wastewater system with local professionals. Obtain system records and confirm requirements before a purchase or proposed change.",
+      "source": "https://www.gov.mb.ca/sd/waste_management/wastewater/wastewater_management/index.html",
+      "sourceName": "Manitoba onsite wastewater resources"
+    },
+    {
+      "name": "Québec",
+      "slug": "quebec",
+      "code": "QC",
+      "heading": "La campagne, on your terms.",
+      "intro": "Explore country living around Montréal, Québec City and regional communities. Woodland, farmland, village services and a home’s year-round use can shape very different property searches.",
+      "check": "Confirm the parcel’s agricultural designation and consult the CPTAQ where applicable. Ask a notary and local planning office to review the transaction and your intended use.",
+      "source": "https://www.cptaq.gouv.qc.ca/autorisation/demande-acquisition/pourquoi-demander-une-acquisition",
+      "sourceName": "Québec agricultural land acquisition"
+    },
+    {
+      "name": "Nova Scotia",
+      "slug": "nova-scotia",
+      "code": "NS",
+      "heading": "Country roads. Coastal possibilities.",
+      "intro": "Compare inland country homes, valley properties and coastal settings. Put year-round access, the condition of the home and the practical cost of caring for the land ahead of the view alone.",
+      "check": "Review the onsite sewage system, drinking-water source and access arrangements. For coastal or waterside land, ask which setbacks and site-specific constraints affect the intended use.",
+      "source": "https://novascotia.ca/nse/wastewater/on.site.sewage.disposal.asp",
+      "sourceName": "Nova Scotia onsite sewage resources"
+    },
+    {
+      "name": "New Brunswick",
+      "slug": "new-brunswick",
+      "code": "NB",
+      "heading": "A quieter place to put down roots.",
+      "intro": "Explore rural communities within reach of New Brunswick’s cities, or extend the search toward forests and river valleys. Decide which everyday services need to be close before comparing parcels.",
+      "check": "Request title and survey information and confirm local planning requirements. Ask about private roads, water supply and whether the dwelling is suitable for your intended season of use.",
+      "source": "https://www.snb.ca/",
+      "sourceName": "Service New Brunswick"
+    },
+    {
+      "name": "Prince Edward Island",
+      "slug": "prince-edward-island",
+      "code": "PE",
+      "heading": "Fields, shorelines and island living.",
+      "intro": "An island acreage search may bring together country homes, agricultural land and coastal surroundings. Look at the whole property: productive ground, access, existing buildings and exposure.",
+      "check": "Land ownership and development rules can affect a proposed purchase. Confirm the requirements for your circumstances with provincial authorities and a qualified local adviser before proceeding.",
+      "source": "https://www.princeedwardisland.ca/",
+      "sourceName": "Prince Edward Island government"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "slug": "newfoundland-and-labrador",
+      "code": "NL",
+      "heading": "Land with a sense of distance.",
+      "intro": "Explore rural settings around regional communities and distinguish a permanent home from a cabin or recreational parcel. Access, services and the legal interest in the land deserve an early review.",
+      "check": "Confirm ownership or tenure, boundaries, servicing and access rights. Do not assume that an established cabin or visible track establishes title or year-round access.",
+      "source": "https://www.gov.nl.ca/",
+      "sourceName": "Newfoundland and Labrador government"
+    },
+    {
+      "name": "Yukon",
+      "slug": "yukon",
+      "code": "YT",
+      "heading": "Space beyond the familiar.",
+      "intro": "A Yukon property search starts with practical questions about location, tenure, access and servicing. Establish the kind of use you want before considering rural residential or recreational land.",
+      "check": "Distinguish titled land from other forms of tenure. Confirm the authority responsible for the parcel and obtain advice about permitted use and any applicable land agreements.",
+      "source": "https://yukon.ca/",
+      "sourceName": "Government of Yukon"
+    },
+    {
+      "name": "Northwest Territories",
+      "slug": "northwest-territories",
+      "code": "NT",
+      "heading": "Think carefully. Look further.",
+      "intro": "Use a northern community as the starting point for a land enquiry. The interest being offered, access arrangements and availability of services should be clear before comparing size or scenery.",
+      "check": "Confirm land administration, tenure and the specific interest that can be acquired. Local, territorial and Indigenous land arrangements require parcel-specific advice.",
+      "source": "https://www.gov.nt.ca/",
+      "sourceName": "Government of the Northwest Territories"
+    },
+    {
+      "name": "Nunavut",
+      "slug": "nunavut",
+      "code": "NU",
+      "heading": "Start with place, tenure and purpose.",
+      "intro": "Land enquiries in Nunavut need a different approach from southern acreage shopping. Begin with the community, intended use and the form of land interest available rather than assuming a conventional rural freehold sale.",
+      "check": "Confirm the relevant land administrator, community planning rules and tenure. Indigenous land ownership and other land arrangements must be reviewed for the particular parcel.",
+      "source": "https://www.gov.nu.ca/",
+      "sourceName": "Government of Nunavut"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Toronto",
+      "slug": "toronto",
+      "province": "ontario",
+      "areas": "Caledon, King and the northern GTA countryside",
+      "angle": "Keep your actual workplace or regular destination as the travel anchor. A property on the right side of the region can suit daily life better than a larger parcel in the wrong direction.",
+      "path": "/ontario/toronto/"
+    },
+    {
+      "name": "Caledon",
+      "slug": "caledon",
+      "province": "ontario",
+      "areas": "Caledon village communities and surrounding countryside",
+      "angle": "Separate a country-home search from plans for horses, a workshop or agricultural use. Ask which buildings and activities are permitted on the particular parcel.",
+      "path": "/ontario/caledon/"
+    },
+    {
+      "name": "King",
+      "slug": "king",
+      "province": "ontario",
+      "areas": "King City, Schomberg and the township countryside",
+      "angle": "Make a clear distinction between a landscaped estate and land you intend to work. Review outbuildings, entrances and the maintenance demands of the property.",
+      "path": "/ontario/king/"
+    },
+    {
+      "name": "Uxbridge",
+      "slug": "uxbridge",
+      "province": "ontario",
+      "areas": "Uxbridge township and neighbouring rural communities",
+      "angle": "Tell us whether trails, horse facilities or a village connection matter most. Follow up with parcel-specific questions about wooded areas, drainage and permitted uses.",
+      "path": "/ontario/uxbridge/"
+    },
+    {
+      "name": "Whitby",
+      "slug": "whitby",
+      "province": "ontario",
+      "areas": "Rural Durham and communities north of the lakeshore",
+      "angle": "Name the destination that brings you into town. Compare rural road access and school or work routines alongside the home and the amount of usable land.",
+      "path": "/ontario/whitby/"
+    },
+    {
+      "name": "Oshawa",
+      "slug": "oshawa",
+      "province": "ontario",
+      "areas": "Northern Durham and the surrounding countryside",
+      "angle": "Plan around the part of the city you need to reach. Include room for a shop or garden in your brief without assuming an existing lot allows every proposed use.",
+      "path": "/ontario/oshawa/"
+    },
+    {
+      "name": "Clarington",
+      "slug": "clarington",
+      "province": "ontario",
+      "areas": "Bowmanville, Newcastle and the rural countryside",
+      "angle": "Decide whether your priority is village convenience, a working parcel or a private retreat. Ask how the home, driveway and land sit in relation to each other.",
+      "path": "/ontario/clarington/"
+    },
+    {
+      "name": "Kawartha Lakes",
+      "slug": "kawartha-lakes",
+      "province": "ontario",
+      "areas": "Lindsay, Fenelon Falls and surrounding rural communities",
+      "angle": "Keep waterfront ownership, water access and a view of water as separate requirements. Establish whether the property is intended for full-time living or seasonal use.",
+      "path": "/ontario/kawartha-lakes/"
+    },
+    {
+      "name": "Peterborough",
+      "slug": "peterborough",
+      "province": "ontario",
+      "areas": "Peterborough County and nearby lake-country communities",
+      "angle": "Balance access to the city with the type of countryside you want. Ask about the road, water source and year-round suitability before planning a permanent move.",
+      "path": "/ontario/peterborough/"
+    },
+    {
+      "name": "Barrie",
+      "slug": "barrie",
+      "province": "ontario",
+      "areas": "Simcoe County and the countryside beyond the city",
+      "angle": "Choose the direction of your search before setting a travel limit. A village connection, a wooded retreat and an open hobby-farm parcel require different priorities.",
+      "path": "/ontario/barrie/"
+    },
+    {
+      "name": "Orillia",
+      "slug": "orillia",
+      "province": "ontario",
+      "areas": "Severn, Oro-Medonte and nearby lake-country settings",
+      "angle": "List the services you need through the year, not just in summer. Distinguish a waterfront brief from a country home that happens to be near a lake.",
+      "path": "/ontario/orillia/"
+    },
+    {
+      "name": "Simcoe County",
+      "slug": "simcoe-county",
+      "province": "ontario",
+      "areas": "Rural communities around Barrie, Orillia and Georgian Bay",
+      "angle": "Use more than one town as a reference point when comparing the county. Identify the amount of usable land you want, not only the total parcel size.",
+      "path": "/ontario/simcoe-county/"
+    },
+    {
+      "name": "Muskoka",
+      "slug": "muskoka",
+      "province": "ontario",
+      "areas": "Bracebridge, Huntsville, Gravenhurst and surrounding land",
+      "angle": "Clarify whether you want a country residence, a cabin or waterfront land. Road maintenance, year-round servicing and the exact water interest should be reviewed individually.",
+      "path": "/ontario/muskoka/"
+    },
+    {
+      "name": "Grey County",
+      "slug": "grey-county",
+      "province": "ontario",
+      "areas": "Owen Sound, Meaford and the county countryside",
+      "angle": "Tell us whether open fields, woodland or proximity to a town takes priority. Inspect slopes and access routes as part of deciding how much land will be useful to you.",
+      "path": "/ontario/grey-county/"
+    },
+    {
+      "name": "Owen Sound",
+      "slug": "owen-sound",
+      "province": "ontario",
+      "areas": "The surrounding Grey and Bruce countryside",
+      "angle": "Start with the places you need to visit regularly and the activities you want at home. A mixed parcel of woods and fields may need a different maintenance plan from open ground.",
+      "path": "/ontario/owen-sound/"
+    },
+    {
+      "name": "Collingwood",
+      "slug": "collingwood",
+      "province": "ontario",
+      "areas": "Clearview, the Blue Mountains and neighbouring countryside",
+      "angle": "Separate recreational access from the everyday requirements of a permanent home. Ask about drainage, driveway conditions and the space available around the dwelling.",
+      "path": "/ontario/collingwood/"
+    },
+    {
+      "name": "Orangeville",
+      "slug": "orangeville",
+      "province": "ontario",
+      "areas": "Dufferin County and nearby country communities",
+      "angle": "Put your practical land needs in writing: garden, grazing, workshop or privacy. Review whether the existing property layout supports those priorities before focusing on acreage alone.",
+      "path": "/ontario/orangeville/"
+    },
+    {
+      "name": "Guelph",
+      "slug": "guelph",
+      "province": "ontario",
+      "areas": "Wellington County and the countryside around the city",
+      "angle": "Decide how closely you want to stay connected to city services. Ask for details on outbuildings, private systems and the parts of the land available for your intended use.",
+      "path": "/ontario/guelph/"
+    },
+    {
+      "name": "Kitchener-Waterloo",
+      "slug": "kitchener-waterloo",
+      "province": "ontario",
+      "areas": "Woolwich, Wellesley, Wilmot and surrounding communities",
+      "angle": "Use your normal commute destination as the centre of the search. Compare country-home living with agricultural surroundings and the obligations that come with each property.",
+      "path": "/ontario/kitchener-waterloo/"
+    },
+    {
+      "name": "Hamilton",
+      "slug": "hamilton",
+      "province": "ontario",
+      "areas": "Flamborough, Ancaster and the wider rural area",
+      "angle": "Identify the city connection you need and the room you want at home. Site access, workshop plans and the condition of private services belong in the first discussion.",
+      "path": "/ontario/hamilton/"
+    },
+    {
+      "name": "Burlington",
+      "slug": "burlington",
+      "province": "ontario",
+      "areas": "North Burlington and nearby Halton countryside",
+      "angle": "Look beyond the house to understand the shape and usability of the land. Ask about natural features and the approval process for any planned change.",
+      "path": "/ontario/burlington/"
+    },
+    {
+      "name": "Milton",
+      "slug": "milton",
+      "province": "ontario",
+      "areas": "Rural Halton and nearby country communities",
+      "angle": "Define whether the goal is a larger home site, a hobby farm or a private setting. An early review of permitted uses helps keep those searches distinct.",
+      "path": "/ontario/milton/"
+    },
+    {
+      "name": "Niagara",
+      "slug": "niagara",
+      "province": "ontario",
+      "areas": "Rural Niagara communities and agricultural countryside",
+      "angle": "State whether you intend to live on the property, grow something or enjoy the open space. Review agricultural context and existing improvements without assuming a parcel can be subdivided.",
+      "path": "/ontario/niagara/"
+    },
+    {
+      "name": "London",
+      "slug": "london",
+      "province": "ontario",
+      "areas": "Middlesex County and nearby rural communities",
+      "angle": "Choose the side of London that suits your daily routes. Include drainage, equipment storage and the amount of land you are willing to maintain in the property brief.",
+      "path": "/ontario/london/"
+    },
+    {
+      "name": "Woodstock",
+      "slug": "woodstock",
+      "province": "ontario",
+      "areas": "Oxford County and surrounding farm country",
+      "angle": "Separate the needs of a rural residence from those of a working operation. Ask which structures, access points and services form part of the sale.",
+      "path": "/ontario/woodstock/"
+    },
+    {
+      "name": "Stratford",
+      "slug": "stratford",
+      "province": "ontario",
+      "areas": "Perth County and surrounding country communities",
+      "angle": "Describe the balance you want between town access and open land. Review the home site and any agricultural or commercial use as distinct parts of the decision.",
+      "path": "/ontario/stratford/"
+    },
+    {
+      "name": "Brantford",
+      "slug": "brantford",
+      "province": "ontario",
+      "areas": "Brant County and neighbouring countryside",
+      "angle": "Start with the home, land and workshop requirements that matter to you. Ask how the parcel connects to public roads and which improvements have supporting records.",
+      "path": "/ontario/brantford/"
+    },
+    {
+      "name": "Windsor",
+      "slug": "windsor",
+      "province": "ontario",
+      "areas": "Essex County and the surrounding countryside",
+      "angle": "Define the intended use of your outdoor space and the urban connections you want to keep. Check drainage and servicing alongside the home’s condition.",
+      "path": "/ontario/windsor/"
+    },
+    {
+      "name": "Chatham-Kent",
+      "slug": "chatham-kent",
+      "province": "ontario",
+      "areas": "Chatham, rural townships and surrounding agricultural land",
+      "angle": "Be clear about whether you want a country home or land to operate. Separate the dwelling, buildings and any rented or worked fields when reviewing a property.",
+      "path": "/ontario/chatham-kent/"
+    },
+    {
+      "name": "Ottawa",
+      "slug": "ottawa",
+      "province": "ontario",
+      "areas": "Rural Ottawa and communities toward the Ottawa Valley",
+      "angle": "Use a specific work or family destination when setting a travel preference. Include winter access, communications service and the condition of outbuildings in the search.",
+      "path": "/ontario/ottawa/"
+    },
+    {
+      "name": "Ottawa Valley",
+      "slug": "ottawa-valley",
+      "province": "ontario",
+      "areas": "Communities around Arnprior, Renfrew and Pembroke",
+      "angle": "A valley-wide search benefits from a short list of towns you want nearby. Compare a woodland retreat with a full-time country home before deciding on land size.",
+      "path": "/ontario/ottawa-valley/"
+    },
+    {
+      "name": "Kingston",
+      "slug": "kingston",
+      "province": "ontario",
+      "areas": "Frontenac, Lennox and Addington and nearby countryside",
+      "angle": "Tell us whether you want city access, privacy or water nearby. Confirm the exact parcel boundaries and road arrangements before planning a rural home or retreat.",
+      "path": "/ontario/kingston/"
+    },
+    {
+      "name": "Belleville",
+      "slug": "belleville",
+      "province": "ontario",
+      "areas": "Hastings County and nearby Quinte countryside",
+      "angle": "Keep everyday services and your preferred rural setting in the same brief. Ask about water, wastewater and the maintenance needs of older outbuildings.",
+      "path": "/ontario/belleville/"
+    },
+    {
+      "name": "Prince Edward County",
+      "slug": "prince-edward-county",
+      "province": "ontario",
+      "areas": "The County’s villages and rural landscape",
+      "angle": "Define the difference between a private residence and any proposed visitor or business use. Confirm planning requirements before valuing a property for that additional use.",
+      "path": "/ontario/prince-edward-county/"
+    },
+    {
+      "name": "Cornwall",
+      "slug": "cornwall",
+      "province": "ontario",
+      "areas": "Stormont, Dundas and Glengarry countryside",
+      "angle": "Use the community you need to reach as a starting point. Ask how much of the parcel is practical for your plans and which access and service arrangements are documented.",
+      "path": "/ontario/cornwall/"
+    },
+    {
+      "name": "Sudbury",
+      "slug": "sudbury",
+      "province": "ontario",
+      "areas": "Greater Sudbury and surrounding rural settings",
+      "angle": "Be specific about a year-round home versus a seasonal place. Establish road access, communications and servicing before comparing wooded acreage.",
+      "path": "/ontario/sudbury/"
+    },
+    {
+      "name": "North Bay",
+      "slug": "north-bay",
+      "province": "ontario",
+      "areas": "Surrounding Nipissing and rural communities",
+      "angle": "Set out how often you will use the property and what you need through winter. Ask for the legal access details and actual servicing arrangements for the parcel.",
+      "path": "/ontario/north-bay/"
+    },
+    {
+      "name": "Thunder Bay",
+      "slug": "thunder-bay",
+      "province": "ontario",
+      "areas": "Rural communities around Thunder Bay",
+      "angle": "Include the route to essential services and the practical demands of the driveway in your brief. Review the home and any recreational land as separate parts of the purchase.",
+      "path": "/ontario/thunder-bay/"
+    },
+    {
+      "name": "Calgary",
+      "slug": "calgary",
+      "province": "alberta",
+      "areas": "Rocky View County, Foothills County and surrounding areas",
+      "angle": "Choose your side of Calgary before narrowing the acreage range. Commute direction, shelter, water supply and the layout of the home site can change the daily experience.",
+      "path": "/alberta/calgary/"
+    },
+    {
+      "name": "Rocky View County",
+      "slug": "rocky-view-county",
+      "province": "alberta",
+      "areas": "Country residential areas around the Calgary region",
+      "angle": "Describe the city connection you need and the uses you want on the property. Ask the county to confirm land-use rules for the specific parcel and proposed improvements.",
+      "path": "/alberta/rocky-view-county/"
+    },
+    {
+      "name": "Foothills County",
+      "slug": "foothills-county",
+      "province": "alberta",
+      "areas": "Rural communities around Okotoks, High River and the foothills",
+      "angle": "Separate your need for open land from plans for horses or an agricultural operation. Consider the location of shelter, fencing and water relative to the residence.",
+      "path": "/alberta/foothills-county/"
+    },
+    {
+      "name": "Okotoks",
+      "slug": "okotoks",
+      "province": "alberta",
+      "areas": "The surrounding Foothills countryside",
+      "angle": "Use your regular destinations as travel anchors and state how much land you want to look after. Confirm the maintenance and servicing arrangements beyond the town boundary.",
+      "path": "/alberta/okotoks/"
+    },
+    {
+      "name": "Cochrane",
+      "slug": "cochrane",
+      "province": "alberta",
+      "areas": "Rocky View and nearby foothills communities",
+      "angle": "Decide whether terrain, privacy or town access is the leading priority. Review slopes, driveway conditions and available service records for each prospective property.",
+      "path": "/alberta/cochrane/"
+    },
+    {
+      "name": "Airdrie",
+      "slug": "airdrie",
+      "province": "alberta",
+      "areas": "The rural area north of Calgary",
+      "angle": "Keep a practical commute and the right amount of outdoor space in the same brief. Ask how the dwelling, outbuildings and access road work together throughout the year.",
+      "path": "/alberta/airdrie/"
+    },
+    {
+      "name": "High River",
+      "slug": "high-river",
+      "province": "alberta",
+      "areas": "Southern Foothills and nearby rural communities",
+      "angle": "Include site drainage and water-related questions in the property review. The location of a parcel matters more than broad assumptions about an entire community.",
+      "path": "/alberta/high-river/"
+    },
+    {
+      "name": "Edmonton",
+      "slug": "edmonton",
+      "province": "alberta",
+      "areas": "Parkland, Strathcona, Sturgeon and Leduc counties",
+      "angle": "Choose the direction that fits your regular city trips. Compare available water and wastewater arrangements, outbuilding needs and the time you want to spend maintaining land.",
+      "path": "/alberta/edmonton/"
+    },
+    {
+      "name": "Parkland County",
+      "slug": "parkland-county",
+      "province": "alberta",
+      "areas": "Rural communities west of Edmonton",
+      "angle": "Tell us whether your priority is a country residence, space for horses or a recreational setting. Clarify the property’s actual access, water and permitted-use arrangements.",
+      "path": "/alberta/parkland-county/"
+    },
+    {
+      "name": "Strathcona County",
+      "slug": "strathcona-county",
+      "province": "alberta",
+      "areas": "Rural communities around Sherwood Park",
+      "angle": "Start with your work, school and family routes. A smaller well-arranged parcel can suit a different brief from a large property with extensive maintenance needs.",
+      "path": "/alberta/strathcona-county/"
+    },
+    {
+      "name": "Sturgeon County",
+      "slug": "sturgeon-county",
+      "province": "alberta",
+      "areas": "The countryside around St. Albert and neighbouring communities",
+      "angle": "List the uses you want for barns, shops and open ground. Confirm land-use rules and the condition of existing improvements rather than assuming they fit the intended use.",
+      "path": "/alberta/sturgeon-county/"
+    },
+    {
+      "name": "Leduc County",
+      "slug": "leduc-county",
+      "province": "alberta",
+      "areas": "The rural area south of Edmonton",
+      "angle": "Specify which side of the region works for your daily travel. Ask about access routes, service availability and the separation between a residence and any working land.",
+      "path": "/alberta/leduc-county/"
+    },
+    {
+      "name": "Red Deer",
+      "slug": "red-deer",
+      "province": "alberta",
+      "areas": "Red Deer County and central Alberta countryside",
+      "angle": "Consider whether you need a central base or a more private setting. A property brief should cover usable acres, outbuildings and access to the services you rely on.",
+      "path": "/alberta/red-deer/"
+    },
+    {
+      "name": "Lethbridge",
+      "slug": "lethbridge",
+      "province": "alberta",
+      "areas": "Lethbridge County and southern Alberta rural communities",
+      "angle": "State your water needs and intended land use early. Ask qualified local professionals to confirm the arrangements that apply to a particular parcel.",
+      "path": "/alberta/lethbridge/"
+    },
+    {
+      "name": "Medicine Hat",
+      "slug": "medicine-hat",
+      "province": "alberta",
+      "areas": "The surrounding Cypress County countryside",
+      "angle": "Distinguish the home site from any larger agricultural or recreational land component. Review water, access and ongoing care before comparing parcel sizes.",
+      "path": "/alberta/medicine-hat/"
+    },
+    {
+      "name": "Grande Prairie",
+      "slug": "grande-prairie",
+      "province": "alberta",
+      "areas": "The County of Grande Prairie and surrounding communities",
+      "angle": "Include year-round access and the location of work or services in the search. Confirm what is maintained by others and what will be the owner’s responsibility.",
+      "path": "/alberta/grande-prairie/"
+    },
+    {
+      "name": "Camrose",
+      "slug": "camrose",
+      "province": "alberta",
+      "areas": "Camrose County and nearby rural communities",
+      "angle": "Name the balance you want between a town connection and open land. Ask which buildings and services are included and how the parcel supports your plans.",
+      "path": "/alberta/camrose/"
+    },
+    {
+      "name": "Vancouver",
+      "slug": "vancouver",
+      "province": "british-columbia",
+      "areas": "Fraser Valley and communities beyond Metro Vancouver",
+      "angle": "Treat the destination and route as part of the brief. A large distance on a map is not a reliable commute estimate, and agricultural designations need a separate review.",
+      "path": "/british-columbia/vancouver/"
+    },
+    {
+      "name": "Fraser Valley",
+      "slug": "fraser-valley",
+      "province": "british-columbia",
+      "areas": "Abbotsford, Chilliwack, Mission and surrounding countryside",
+      "angle": "Separate a rural residence from plans for agriculture or another business. Check the actual parcel’s ALR status, servicing and suitability for the proposed use.",
+      "path": "/british-columbia/fraser-valley/"
+    },
+    {
+      "name": "Abbotsford",
+      "slug": "abbotsford",
+      "province": "british-columbia",
+      "areas": "The surrounding Fraser Valley countryside",
+      "angle": "Describe whether you want open working ground, a country home or equestrian facilities. Ask about agricultural context and review the land-use status of each property.",
+      "path": "/british-columbia/abbotsford/"
+    },
+    {
+      "name": "Chilliwack",
+      "slug": "chilliwack",
+      "province": "british-columbia",
+      "areas": "Chilliwack and nearby valley communities",
+      "angle": "Look at the ground, home and access route as a whole. Review drainage and site-specific conditions before deciding how the acreage could be used.",
+      "path": "/british-columbia/chilliwack/"
+    },
+    {
+      "name": "Mission",
+      "slug": "mission",
+      "province": "british-columbia",
+      "areas": "Rural Mission and neighbouring valley settings",
+      "angle": "State whether you prefer open ground or wooded privacy. The usable part of a sloping or treed parcel can differ from its total area, so request a proper site review.",
+      "path": "/british-columbia/mission/"
+    },
+    {
+      "name": "Langley",
+      "slug": "langley",
+      "province": "british-columbia",
+      "areas": "Langley township and the surrounding countryside",
+      "angle": "Make horse facilities, garden space or workshop needs explicit. Ask which existing uses are permitted and whether proposed changes require approval.",
+      "path": "/british-columbia/langley/"
+    },
+    {
+      "name": "Surrey",
+      "slug": "surrey",
+      "province": "british-columbia",
+      "areas": "South-of-Fraser communities and surrounding rural areas",
+      "angle": "Choose the urban connections that matter most before widening the search. Confirm parcel designation and the practical space available for your intended use.",
+      "path": "/british-columbia/surrey/"
+    },
+    {
+      "name": "Kelowna",
+      "slug": "kelowna",
+      "province": "british-columbia",
+      "areas": "Central Okanagan and nearby valley communities",
+      "angle": "Balance town access with your requirements for outdoor space. Review slope, servicing and agricultural designation before judging a property by the view.",
+      "path": "/british-columbia/kelowna/"
+    },
+    {
+      "name": "Vernon",
+      "slug": "vernon",
+      "province": "british-columbia",
+      "areas": "North Okanagan and surrounding countryside",
+      "angle": "Describe the mix of open and wooded land you would consider. Ask about access, water and the responsibilities attached to outbuildings or agricultural improvements.",
+      "path": "/british-columbia/vernon/"
+    },
+    {
+      "name": "Penticton",
+      "slug": "penticton",
+      "province": "british-columbia",
+      "areas": "South Okanagan and nearby rural communities",
+      "angle": "Identify your intended use and the amount of usable land you need. Seek a parcel-specific review of water arrangements, terrain and land-use designation.",
+      "path": "/british-columbia/penticton/"
+    },
+    {
+      "name": "Okanagan",
+      "slug": "okanagan",
+      "province": "british-columbia",
+      "areas": "North, Central and South Okanagan communities",
+      "angle": "Use a preferred town and travel direction to make a broad valley search practical. Compare the character of the land as carefully as the size of the home.",
+      "path": "/british-columbia/okanagan/"
+    },
+    {
+      "name": "Kamloops",
+      "slug": "kamloops",
+      "province": "british-columbia",
+      "areas": "Thompson-area communities and rural surroundings",
+      "angle": "Start with access, water and the services you want nearby. Distinguish a rural residential parcel from a larger ranch or recreational holding.",
+      "path": "/british-columbia/kamloops/"
+    },
+    {
+      "name": "Victoria",
+      "slug": "victoria",
+      "province": "british-columbia",
+      "areas": "Saanich Peninsula and nearby Vancouver Island countryside",
+      "angle": "Clarify the balance between a city connection and rural space. Review the parcel’s land-use designation and the practical limits on any proposed buildings or activities.",
+      "path": "/british-columbia/victoria/"
+    },
+    {
+      "name": "Nanaimo",
+      "slug": "nanaimo",
+      "province": "british-columbia",
+      "areas": "Mid-Island rural communities and nearby countryside",
+      "angle": "Think through everyday trips as well as the privacy you want at home. Ask about servicing, access and which portions of the land are useful for your plans.",
+      "path": "/british-columbia/nanaimo/"
+    },
+    {
+      "name": "Duncan",
+      "slug": "duncan",
+      "province": "british-columbia",
+      "areas": "Cowichan Valley and surrounding communities",
+      "angle": "State whether the priority is country-home living, food growing or space for animals. Confirm permitted uses, drainage and existing water arrangements for the parcel.",
+      "path": "/british-columbia/duncan/"
+    },
+    {
+      "name": "Courtenay",
+      "slug": "courtenay",
+      "province": "british-columbia",
+      "areas": "Comox Valley and nearby rural settings",
+      "angle": "Compare the home’s year-round needs with the outdoor activities you have in mind. Ask about road maintenance, water and the condition of fences and outbuildings.",
+      "path": "/british-columbia/courtenay/"
+    },
+    {
+      "name": "Vancouver Island",
+      "slug": "vancouver-island",
+      "province": "british-columbia",
+      "areas": "Cowichan, mid-Island and northern Island communities",
+      "angle": "Begin with the part of the Island you need to reach regularly. A country residence and a remote recreational property call for very different access and servicing checks.",
+      "path": "/british-columbia/vancouver-island/"
+    },
+    {
+      "name": "Prince George",
+      "slug": "prince-george",
+      "province": "british-columbia",
+      "areas": "The surrounding central-interior countryside",
+      "angle": "Set priorities for year-round use, work access and communications. Establish the actual road and servicing arrangements before narrowing a wooded-land search.",
+      "path": "/british-columbia/prince-george/"
+    },
+    {
+      "name": "Cranbrook",
+      "slug": "cranbrook",
+      "province": "british-columbia",
+      "areas": "East Kootenay and surrounding rural communities",
+      "angle": "Tell us whether you want a permanent base, a hobby property or a retreat. Review the relationship between terrain, the home site and usable outdoor space.",
+      "path": "/british-columbia/cranbrook/"
+    },
+    {
+      "name": "Nelson",
+      "slug": "nelson",
+      "province": "british-columbia",
+      "areas": "West Kootenay and neighbouring rural settings",
+      "angle": "Include road access and terrain in the first property discussion. Clarify whether the home and services support permanent residence or a different pattern of use.",
+      "path": "/british-columbia/nelson/"
+    },
+    {
+      "name": "Saskatoon",
+      "slug": "saskatoon",
+      "province": "saskatchewan",
+      "areas": "Corman Park and surrounding rural municipalities",
+      "angle": "Choose the side of Saskatoon that fits your daily routes. Ask about shelter, water and the amount of land that will need active care around the home.",
+      "path": "/saskatchewan/saskatoon/"
+    },
+    {
+      "name": "Regina",
+      "slug": "regina",
+      "province": "saskatchewan",
+      "areas": "Sherwood and neighbouring rural municipalities",
+      "angle": "Define the outdoor space you want and the town services you need nearby. Review approaches, water supply and any agricultural component as distinct parts of a property.",
+      "path": "/saskatchewan/regina/"
+    },
+    {
+      "name": "Prince Albert",
+      "slug": "prince-albert",
+      "province": "saskatchewan",
+      "areas": "Surrounding rural municipalities and northern gateways",
+      "angle": "Be clear about residential use versus a recreational land search. Review access and servicing with the same care as the size and character of the parcel.",
+      "path": "/saskatchewan/prince-albert/"
+    },
+    {
+      "name": "Moose Jaw",
+      "slug": "moose-jaw",
+      "province": "saskatchewan",
+      "areas": "The surrounding agricultural countryside",
+      "angle": "Describe your home, shop and land requirements separately. Ask which structures and rights are included and what ongoing maintenance the property needs.",
+      "path": "/saskatchewan/moose-jaw/"
+    },
+    {
+      "name": "Yorkton",
+      "slug": "yorkton",
+      "province": "saskatchewan",
+      "areas": "Surrounding rural communities and agricultural land",
+      "angle": "Start with practical access to work, schools or services. Compare the residence and its immediate grounds with any additional working land in the offering.",
+      "path": "/saskatchewan/yorkton/"
+    },
+    {
+      "name": "Swift Current",
+      "slug": "swift-current",
+      "province": "saskatchewan",
+      "areas": "Nearby rural municipalities and prairie communities",
+      "angle": "Put water requirements, access and the intended use of the land in the brief. A country residence should be assessed differently from a productive agricultural holding.",
+      "path": "/saskatchewan/swift-current/"
+    },
+    {
+      "name": "Winnipeg",
+      "slug": "winnipeg",
+      "province": "manitoba",
+      "areas": "Springfield, East St. Paul, St. Clements and surrounding areas",
+      "angle": "Choose your city access point before comparing acreage locations. Confirm drainage, private services and the land you expect to use for a home, garden or workshop.",
+      "path": "/manitoba/winnipeg/"
+    },
+    {
+      "name": "Brandon",
+      "slug": "brandon",
+      "province": "manitoba",
+      "areas": "The surrounding Westman countryside",
+      "angle": "Tell us how much open land you want to manage and which town services need to be close. Review the home, outbuildings and any agricultural component separately.",
+      "path": "/manitoba/brandon/"
+    },
+    {
+      "name": "Steinbach",
+      "slug": "steinbach",
+      "province": "manitoba",
+      "areas": "The surrounding southeastern Manitoba countryside",
+      "angle": "Define the mix of household space, outdoor use and town access you need. Ask for records of private systems and the actual maintenance responsibilities of the parcel.",
+      "path": "/manitoba/steinbach/"
+    },
+    {
+      "name": "Selkirk",
+      "slug": "selkirk",
+      "province": "manitoba",
+      "areas": "St. Andrews, St. Clements and nearby rural settings",
+      "angle": "Include site drainage and access questions early in the review. Treat each property’s servicing and land conditions as individual facts to establish.",
+      "path": "/manitoba/selkirk/"
+    },
+    {
+      "name": "Portage la Prairie",
+      "slug": "portage-la-prairie",
+      "province": "manitoba",
+      "areas": "The surrounding rural municipality and Central Plains",
+      "angle": "Be clear whether you are seeking a rural home site or land for an agricultural purpose. Ask how the residence, approaches and worked ground fit together.",
+      "path": "/manitoba/portage-la-prairie/"
+    },
+    {
+      "name": "Morden-Winkler",
+      "slug": "morden-winkler",
+      "province": "manitoba",
+      "areas": "Pembina Valley and neighbouring rural communities",
+      "angle": "Name your preferred town connection and the uses you want for the land. Review the condition and suitability of workshops, barns and private services before narrowing the search.",
+      "path": "/manitoba/morden-winkler/"
+    },
+    {
+      "name": "Montréal",
+      "slug": "montreal",
+      "province": "quebec",
+      "areas": "Montérégie, the Laurentians and Lanaudière",
+      "angle": "Choose the side of Montréal that supports your regular trips. A country home, agricultural parcel and woodland retreat call for different checks and professional advice.",
+      "path": "/quebec/montreal/"
+    },
+    {
+      "name": "Québec City",
+      "slug": "quebec-city",
+      "province": "quebec",
+      "areas": "Portneuf, Côte-de-Beaupré and Île d’Orléans surroundings",
+      "angle": "Define the kind of rural setting you want before setting a land-size target. Ask a local professional to establish agricultural status, title and the proposed use.",
+      "path": "/quebec/quebec-city/"
+    },
+    {
+      "name": "Gatineau",
+      "slug": "gatineau",
+      "province": "quebec",
+      "areas": "Outaouais communities and surrounding countryside",
+      "angle": "Consider which side of the region works for your daily travel. Confirm access and year-round services before comparing a wooded retreat with a permanent country home.",
+      "path": "/quebec/gatineau/"
+    },
+    {
+      "name": "Sherbrooke",
+      "slug": "sherbrooke",
+      "province": "quebec",
+      "areas": "Estrie and Eastern Townships communities",
+      "angle": "List the balance of village access, open ground and wooded privacy you want. Review the home, wastewater system and agricultural designation as separate questions.",
+      "path": "/quebec/sherbrooke/"
+    },
+    {
+      "name": "Drummondville",
+      "slug": "drummondville",
+      "province": "quebec",
+      "areas": "Centre-du-Québec and surrounding rural communities",
+      "angle": "Separate residential plans from any business or agricultural use. Ask which existing improvements and land interests are included in a property being considered.",
+      "path": "/quebec/drummondville/"
+    },
+    {
+      "name": "Trois-Rivières",
+      "slug": "trois-rivieres",
+      "province": "quebec",
+      "areas": "Mauricie and nearby rural communities",
+      "angle": "Use your essential destinations as reference points for the search. Clarify whether open land, woods or water nearby matters most, then review parcel-specific constraints.",
+      "path": "/quebec/trois-rivieres/"
+    },
+    {
+      "name": "Saint-Hyacinthe",
+      "slug": "saint-hyacinthe",
+      "province": "quebec",
+      "areas": "Montérégie and surrounding agricultural communities",
+      "angle": "Make the intended land use explicit before discussing acreage. Review agricultural status and the relation between a dwelling and any working land with local advisers.",
+      "path": "/quebec/saint-hyacinthe/"
+    },
+    {
+      "name": "Saint-Jérôme",
+      "slug": "saint-jerome",
+      "province": "quebec",
+      "areas": "The Laurentians and neighbouring rural settings",
+      "angle": "Decide whether the property will support daily life or occasional stays. Check road access, the home’s servicing and the usable parts of wooded or sloping land.",
+      "path": "/quebec/saint-jerome/"
+    },
+    {
+      "name": "Granby",
+      "slug": "granby",
+      "province": "quebec",
+      "areas": "Haute-Yamaska and nearby country communities",
+      "angle": "Describe your requirements for a home, garden, animals or outbuildings. Confirm permitted uses and the actual condition of the land before relying on a listing description.",
+      "path": "/quebec/granby/"
+    },
+    {
+      "name": "Saguenay",
+      "slug": "saguenay",
+      "province": "quebec",
+      "areas": "Surrounding Saguenay–Lac-Saint-Jean communities",
+      "angle": "Start with your intended season of use and the services you need nearby. Establish road, tenure and servicing details before comparing rural parcels.",
+      "path": "/quebec/saguenay/"
+    },
+    {
+      "name": "Halifax",
+      "slug": "halifax",
+      "province": "nova-scotia",
+      "areas": "Rural Halifax and nearby mainland communities",
+      "angle": "Choose which connection to Halifax matters most. Compare year-round access and service arrangements before treating a coastal retreat as a permanent-home option.",
+      "path": "/nova-scotia/halifax/"
+    },
+    {
+      "name": "Truro",
+      "slug": "truro",
+      "province": "nova-scotia",
+      "areas": "Colchester County and surrounding countryside",
+      "angle": "Tell us whether you want open land, woods or a smaller country-home setting. Request records for private systems and clarify the upkeep required around the dwelling.",
+      "path": "/nova-scotia/truro/"
+    },
+    {
+      "name": "Kentville",
+      "slug": "kentville",
+      "province": "nova-scotia",
+      "areas": "Annapolis Valley and surrounding country communities",
+      "angle": "Separate residential priorities from plans to grow or operate on the land. Confirm the condition and permitted use of outbuildings as part of the property review.",
+      "path": "/nova-scotia/kentville/"
+    },
+    {
+      "name": "Bridgewater",
+      "slug": "bridgewater",
+      "province": "nova-scotia",
+      "areas": "Lunenburg County and South Shore communities",
+      "angle": "Distinguish a coastal view from waterfront ownership and access. Review the road, water source and home’s year-round use before comparing properties.",
+      "path": "/nova-scotia/bridgewater/"
+    },
+    {
+      "name": "Sydney",
+      "slug": "sydney",
+      "province": "nova-scotia",
+      "areas": "Cape Breton communities and nearby rural settings",
+      "angle": "Identify the places you need to reach and the pattern of use you expect. Clarify whether the property’s access and services match a permanent move or seasonal stays.",
+      "path": "/nova-scotia/sydney/"
+    },
+    {
+      "name": "Yarmouth",
+      "slug": "yarmouth",
+      "province": "nova-scotia",
+      "areas": "Southwestern Nova Scotia and neighbouring communities",
+      "angle": "Start with the everyday services you need and your plans for the land. Ask for information on water, wastewater and the condition of older improvements.",
+      "path": "/nova-scotia/yarmouth/"
+    },
+    {
+      "name": "Fredericton",
+      "slug": "fredericton",
+      "province": "new-brunswick",
+      "areas": "York and Sunbury area communities",
+      "angle": "Set your preferred side of the city before comparing country properties. Ask about legal access, private services and the usable portion of the parcel.",
+      "path": "/new-brunswick/fredericton/"
+    },
+    {
+      "name": "Moncton",
+      "slug": "moncton",
+      "province": "new-brunswick",
+      "areas": "Rural southeastern New Brunswick",
+      "angle": "Name the city connection you need to keep and the outdoor uses that matter. Review drainage, road maintenance and the condition of existing buildings.",
+      "path": "/new-brunswick/moncton/"
+    },
+    {
+      "name": "Saint John",
+      "slug": "saint-john",
+      "province": "new-brunswick",
+      "areas": "The Kennebecasis area and surrounding rural communities",
+      "angle": "Compare a permanent rural residence with a retreat based on your actual routine. Ask which access and servicing arrangements are documented for each parcel.",
+      "path": "/new-brunswick/saint-john/"
+    },
+    {
+      "name": "Miramichi",
+      "slug": "miramichi",
+      "province": "new-brunswick",
+      "areas": "Surrounding river-valley and rural communities",
+      "angle": "Clarify whether water access, woodland or a country home is the priority. Establish boundaries and the nature of any water interest rather than assuming it from a view.",
+      "path": "/new-brunswick/miramichi/"
+    },
+    {
+      "name": "Edmundston",
+      "slug": "edmundston",
+      "province": "new-brunswick",
+      "areas": "The surrounding northwestern New Brunswick countryside",
+      "angle": "Include year-round access and the distance to regular services in your brief. Confirm how the property is heated, supplied with water and connected to a maintained road.",
+      "path": "/new-brunswick/edmundston/"
+    },
+    {
+      "name": "Charlottetown",
+      "slug": "charlottetown",
+      "province": "prince-edward-island",
+      "areas": "Queens County and nearby rural communities",
+      "angle": "Keep your preferred city connection and land use in the same brief. Ask about ownership requirements and parcel-specific permissions before planning a purchase.",
+      "path": "/prince-edward-island/charlottetown/"
+    },
+    {
+      "name": "Summerside",
+      "slug": "summerside",
+      "province": "prince-edward-island",
+      "areas": "Prince County and surrounding countryside",
+      "angle": "Decide whether you want a country residence, open land or a waterside setting. Review land ownership rules, servicing and development requirements with local advisers.",
+      "path": "/prince-edward-island/summerside/"
+    },
+    {
+      "name": "Montague",
+      "slug": "montague",
+      "province": "prince-edward-island",
+      "areas": "Eastern Island communities and nearby country settings",
+      "angle": "Describe whether your plans are residential, recreational or agricultural. Ask which land interests and approvals apply to the specific property.",
+      "path": "/prince-edward-island/montague/"
+    },
+    {
+      "name": "St. John’s",
+      "slug": "st-johns",
+      "province": "newfoundland-and-labrador",
+      "areas": "Avalon Peninsula communities and nearby rural settings",
+      "angle": "Separate the appeal of a cabin from the practical needs of a permanent home. Confirm title, access and services for the actual parcel before comparing land size.",
+      "path": "/newfoundland-and-labrador/st-johns/"
+    },
+    {
+      "name": "Corner Brook",
+      "slug": "corner-brook",
+      "province": "newfoundland-and-labrador",
+      "areas": "Western Newfoundland and surrounding communities",
+      "angle": "State how often you intend to use the property and what services you need. Establish tenure and access before considering any building or recreational plans.",
+      "path": "/newfoundland-and-labrador/corner-brook/"
+    },
+    {
+      "name": "Gander",
+      "slug": "gander",
+      "province": "newfoundland-and-labrador",
+      "areas": "Central Newfoundland and nearby rural communities",
+      "angle": "Use your regular destinations as a guide to where to search. Review the legal land interest, road arrangements and suitability of existing buildings individually.",
+      "path": "/newfoundland-and-labrador/gander/"
+    },
+    {
+      "name": "Whitehorse",
+      "slug": "whitehorse",
+      "province": "yukon",
+      "areas": "Whitehorse-area rural communities",
+      "angle": "Begin with the intended use and the kind of land interest available. Ask the appropriate authority and local advisers to confirm tenure, access and servicing for a particular site.",
+      "path": "/yukon/whitehorse/"
+    },
+    {
+      "name": "Dawson City",
+      "slug": "dawson-city",
+      "province": "yukon",
+      "areas": "The Klondike area and nearby communities",
+      "angle": "Clarify whether the enquiry concerns residential, recreational or another land use. Verify land administration and the rights attached to the parcel before planning improvements.",
+      "path": "/yukon/dawson-city/"
+    },
+    {
+      "name": "Yellowknife",
+      "slug": "yellowknife",
+      "province": "northwest-territories",
+      "areas": "Yellowknife-area land and nearby communities",
+      "angle": "Start with tenure and the intended use rather than applying southern acreage assumptions. Confirm the relevant land administrator and obtain parcel-specific guidance on access and servicing.",
+      "path": "/northwest-territories/yellowknife/"
+    },
+    {
+      "name": "Hay River",
+      "slug": "hay-river",
+      "province": "northwest-territories",
+      "areas": "Hay River-area land and surrounding communities",
+      "angle": "Describe the purpose of the land enquiry first. Establish the legal interest, responsible authority and practical access arrangements before making a property comparison.",
+      "path": "/northwest-territories/hay-river/"
+    },
+    {
+      "name": "Iqaluit",
+      "slug": "iqaluit",
+      "province": "nunavut",
+      "areas": "Iqaluit-area land enquiries",
+      "angle": "A local land enquiry begins with tenure, administration and intended use. Seek community and territorial guidance instead of assuming a conventional freehold acreage market.",
+      "path": "/nunavut/iqaluit/"
+    },
+    {
+      "name": "Rankin Inlet",
+      "slug": "rankin-inlet",
+      "province": "nunavut",
+      "areas": "Rankin Inlet-area land enquiries",
+      "angle": "Identify the use you are considering and the land administrator responsible. The form of tenure and community planning requirements need to be established for the actual site.",
+      "path": "/nunavut/rankin-inlet/"
+    }
+  ],
+  "lifestyles": [
+    {
+      "name": "Country Homes",
+      "slug": "country-homes",
+      "heading": "A home with room to breathe.",
+      "intro": "Make the move to a country setting without losing sight of daily life. Start with the home you need, the land you want to maintain and the community you want nearby.",
+      "checks": [
+        "Year-round home and access",
+        "Private water and wastewater records",
+        "Outdoor space you will actually use"
+      ],
+      "image": "country-farmhouse-barn"
+    },
+    {
+      "name": "Hobby Farms",
+      "slug": "hobby-farms",
+      "heading": "A little land. A lot of possibility.",
+      "intro": "Plan for gardens, small-scale growing or a few animals with the right combination of usable ground, water and buildings. Acreage alone does not establish what a property can support.",
+      "checks": [
+        "Usable land and soil conditions",
+        "Permitted animals and activities",
+        "Fencing, water and outbuildings"
+      ],
+      "image": "bc-red-barn"
+    },
+    {
+      "name": "Equestrian",
+      "slug": "equestrian",
+      "heading": "Space for you. Space for your horses.",
+      "intro": "Put the horse facilities in the brief from the start. A barn, paddock and access route need to suit the intended use and be assessed for condition and permissions.",
+      "checks": [
+        "Barn layout and safe access",
+        "Fencing, paddocks and drainage",
+        "Water, manure management and local rules"
+      ],
+      "image": "equestrian-pasture"
+    },
+    {
+      "name": "Waterfront Acreages",
+      "slug": "waterfront",
+      "heading": "Land and water, together.",
+      "intro": "Look beyond the view. Confirm what you own, how you reach the water and which restrictions affect the shoreline before making plans for a waterfront property.",
+      "checks": [
+        "Shoreline ownership and access",
+        "Flooding, setbacks and permitted works",
+        "Seasonal and year-round servicing"
+      ],
+      "image": "quebec-island-cottage"
+    },
+    {
+      "name": "Private Estates",
+      "slug": "luxury-acreages",
+      "heading": "Privacy, with a sense of place.",
+      "intro": "Define the features that make an estate work for you: a considered home, a private setting and space for guests or interests. Include the care of the grounds in the decision.",
+      "checks": [
+        "Residence and outbuilding condition",
+        "Grounds, driveways and maintenance",
+        "Privacy, boundaries and services"
+      ],
+      "image": "residential-house-grounds"
+    },
+    {
+      "name": "Recreational Land",
+      "slug": "recreational-land",
+      "heading": "An escape with your name on it.",
+      "intro": "Search for woods, trails or a cabin base with a clear view of how you will use it. Recreational appeal does not establish legal access, building rights or year-round services.",
+      "checks": [
+        "Legal access and road maintenance",
+        "Cabin use, services and tenure",
+        "Boundaries and intended activities"
+      ],
+      "image": "bc-forest-cabin"
+    },
+    {
+      "name": "Vacant Land",
+      "slug": "vacant-land",
+      "heading": "Start with the land.",
+      "intro": "Bring the intended use into the search before choosing a parcel. A survey, access, servicing and local planning review help establish whether your plans are practical.",
+      "checks": [
+        "Title, boundaries and access",
+        "Zoning and site constraints",
+        "Water, wastewater and utility feasibility"
+      ],
+      "image": "quebec-open-rural-land"
+    }
+  ]
+}

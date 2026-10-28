@@ -1,0 +1,1 @@
+import type{MetadataRoute}from'next';import{allPages}from'@/lib/pages';import{SITE_ORIGIN}from'@/lib/site';import{pageImage}from'@/lib/seo';import{imageUrl}from'@/lib/images';export default function sitemap():MetadataRoute.Sitemap{return allPages.map(p=>({url:SITE_ORIGIN+p.path,images:[SITE_ORIGIN+imageUrl(pageImage(p.path))]}))}
