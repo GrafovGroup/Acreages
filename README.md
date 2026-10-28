@@ -20,7 +20,7 @@ Canadian rural-property discovery and enquiry website built with Vinext, React a
 - Existing community routes, source credits, forms and geographic data remain intact.
 
 Validation: `node tests/acreage-plan.cjs`, `node tests/seo.cjs`, `npx tsc --noEmit`, `npm run build`.
-The SEO check verifies every canonical route and its social image, the community and regional-guide counts, and FAQ content/schema parity. Preview infrastructure timed out during this update, so desktop/mobile visual QA remains outstanding. Search rankings and AI citations are not guaranteed by markup.
+The SEO check verifies every canonical route and its social image, the community and regional-guide counts, and FAQ content/schema parity. Browser QA completed at desktop, 390px mobile and 768px tablet widths after restoring the ignored managed execution profile. Verified mobile menu, FAQ expansion, search-to-planner preference transfer, plan generation and guide anchor navigation. See `docs/qa/responsive-october-2026.jpg`. These responsive viewport checks do not replace physical-device testing. Search rankings and AI citations are not guaranteed by markup.
 
 This repository is a source mirror. Pushing to GitHub alone does not deploy Sites. Publication uses the existing `.openai/hosting.json` project, build and Sites deployment workflow. Runtime secrets and customer enquiry records are not included.
 

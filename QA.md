@@ -31,3 +31,16 @@ These are local checks. They do not claim search-engine indexing, rankings, auth
 - Checked the mobile form without horizontal overflow, the privacy disclosure and zero browser exceptions after refreshing the development server for the newly installed dependency.
 - Production build and TypeScript checks passed. The D1 schema is unchanged.
 - Actual recipient delivery, Formspree account activation and any account domain restrictions require a real submission from the owner; they were not verified by the intercepted tests.
+
+## October 2026 follow-up browser QA
+
+- Restored ignored managed execution profile using the Sites helper; preview now starts successfully.
+- Inspected desktop homepage and 390px / 768px responsive frame viewports.
+- Verified mobile navigation opens and exposes all primary destinations.
+- Verified FAQ expansion displays the matching answer.
+- Searched Calgary, Alberta and confirmed the community guide result.
+- Followed the planner CTA: Alberta and Calgary were carried correctly; generated the six-question plan.
+- Verified guide contents anchors navigate below the sticky header.
+- Improved hero image source sizing for tall mobile crops, expanded mobile budget control, and increased select tap areas.
+- Corrected singular result wording.
+- No real enquiries submitted. Physical-device testing and Search Console account metrics were not part of these browser checks.
